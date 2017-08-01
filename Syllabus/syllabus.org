@@ -1,0 +1,294 @@
+#+TITLE: University Writing: Readings in Data Sciences
+
+* General Information
+ENGL 1010 CC, Section 502
+
+Fall 2017
+
+Day/Time: Tues/Thurs 2:40pm-3:55pm
+
+Location: 425 Pupin Hall
+
+Instructor: Jonathan Reeve
+
+Email: jonathan.reeve@columbia.edu
+
+Office hours/location: TBA, or by appointment.  
+
+Mailbox address: 310 Philosophy Hall
+
+* Course Description
+
+University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed. Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
+
+This themed course features readings in the data sciences. As "data sciences" is interpreted loosely here, the readings will cover a wide variety of problems in statistics, sociology, philosophy (epistemology), and the humanities. This course does not assume any formal background in quantitative sciences or humanistic disciplines, however, and the readings are mostly derived from popular scientific sources.  
+
+During Progression 1, when we will be writing our critical analysis, our readings will be abstract and philosophical, centered around artificial intelligence, and the boundaries of humans and machines. Questions to be considered include: 
+ - What is intelligence?  
+ - What makes us human?
+ - What makes a "black box"? 
+ - What assumptions are built into machines? 
+
+During Progression 2, when we will be writing a synthesis of ideas from multiple texts, the readings will expand these questions into epistemology: 
+ - How do we know what we know? 
+ - How do we trust data?
+
+Progressions 3 and 4 will provide more specific examples of data-driven research, taken from data science, statistics, and the digital humanities. 
+ - What does behavioral data reveal about us?
+ - What does linguistic data reveal about us? 
+ - What can a close attention to our language, whether quantitative or qualitative, tell us about ourselves? 
+
+*Important note*: This syllabus contains important course information, and should be read in its entirety, and frequently consulted throughout the duration of the course. In it you will find course policies, all major due dates, and a schedule of readings. This syllabus is also available on Courseworks: http://courseworks.columbia.edu. 
+
+* Requirements
+
+ - Complete /four revised essays/ ranging from 750-3000 words, each accompanied by two /drafts/. 
+   - Students must submit all four final essays in order to pass the class. 
+   - All written assignments must be submitted as PDF files on CourseWorks.
+ - Attend and participate in all classes and required conferences.
+ - Prepare reading and writing /exercises/ as assigned.
+
+* Assignments
+
+You will do at least three types of writing in this course: /exercises/, drafts/, and /final essays/. These assignments will connect with one another in a developmental sequence called /a progression./
+
+ - Exercises: Exercises will help you develop skills and ideas as you work toward your essay draft. Most of these will be assigned at the ends of chapters from /They Say / I Say/, but some will be assigned in class. These will usually be about 100-400 words. 
+
+ - Drafts and proposals: You will write two drafts of each essay, prior to submitting a final version. The stronger the draft at any stage of composing, the more useful will be the feedback you receive. Revisions should be deep rewrites, taking into account feedback, and not merely surface revisions of areas addressed in feedback. 
+
+ - Final essays: A final essay is the most public kind of writing you will produce for this course. Your essay should aim to persuade astute, interested readers who are unfamiliar with the texts you engage; you need to convince them of why your argument is significant. Word counts differ by progression. Final essays must adhere to MLA style, with a title and a works cited page. 
+   - Progression 1: Critical Response 
+     - 1200-1500 words
+   - Progression 2: Conversation Essay  
+     - 1500-2000 words
+   - Progression 3: Research Essay 
+     - 2400-3000 words
+   - Progression 4: Editorial Essay 
+     - approx. 750 words, dependent on publication
+
+MLA style is described on [[http://style.mla.org/formatting-papers][the MLA website]], which also contains a few [[https://style.mla.org/files/2016/08/6598_Brandon_Paper_Updated.pdf][examples]]. Close attention to the details here will help your essay make a great first impression. It's a good idea to buy a copy of the [[https://www.mla.org/Publications/Bookstore/Nonseries/MLA-Handbook-Eighth-Edition][/MLA Handbook/]], one of the optional texts listed below. It will certainly be useful beyond this class.
+
+If you're tech-savvy, you can avoid a lot of pixel-pushing by writing in [[https://www.latex-project.org/][LaTeX]], or by writing in Markdown or Org-mode, and exporting to LaTeX with a tool like [[http://pandoc.org/][Pandoc]]. You can also manage your bibliography using BibTeX, or use bibliographic management software that will archive and organize your textual references and generate formatted citations in many formats. You can download one of those programs from [[http://library.columbia.edu/research/citation-management.html][CUIT]]. I recommend [[https://www.zotero.org/][Zotero]]. If you go this route, make sure your technical stack works well in advance of any deadlines. 
+
+*All essays must be submitted to CourseWorks, in PDF format.* Emailed essays, paper essays, and other file formats (.doc, .docx, .pages, and others) will not be accepted. It is your responsibility to verify that your essay has been properly uploaded. If you are new to uploading assignments to CourseWorks, give yourself ample time to familiarize yourself with the process long before the deadline.  
+
+* Required Texts
+
+The syllabus, course description, requirements, readings, assignments, and links to resources are available on [[https://courseworks.columbia.edu][CourseWorks]]. *Bring a copy of all assigned readings to class, either on paper or on an electronic device*. As we will always be referring back to earlier readings, it's always a good idea to bring prior readings to class, as well. 
+
+The following text is required, in the third edition. As we'll be using the latest MLA citation style, corresponding to the 2016 eighth edition of the /MLA Handbook/, it is important that you buy this exact edition, since earlier editions may use outdated citation styles.
+
+Graff, Gerald, and Cathy Birkenstein. /“They Say, I Say”: The Moves that Matter in Academic Writing/, Third Edition. W. W. Norton, 2014.
+
+Later in the semester, you will also be required to watch Werner Herzog's film, /Lo and Behold: Reveries of the Connected World/, available for rent for around $4 from various streaming sites (YouTube, Google Play, Amazon, etc.). To save money on the rental, you can arrange to have a viewing party with classmates. 
+
+* Recommended Texts
+
+These books are common, and should be available at the university bookstore and at Bookculture. 
+
+1. Hacker, Diana. /A Pocket Style Manual/, Seventh Edition.
+2. Modern Language Association of America. /The MLA Handbook/. Modern Language Association of America, 2016.
+3. Strunk, Williams, and White, E.B., /The Elements of Style/, Fourth Edition. Pearson, 1999. 
+
+* Course Policies
+** Attendance
+
+The discussion and workshop elements that are at the center of this course cannot be made up, so attendance is vital.
+
+In accordance with Columbia University regulations, there will be distinctions made between excused absences and unexcused absences. Excused absences due to religious observance, athletic commitments (e.g. away games), and illness will not incur a grade penalty providing that proper documentation is submitted correctly. In the first two weeks of class, students will also not be penalized if they have been attending a different section of University Writing and elect to change their section. Please see the specific requirements below for how you should document absences you wish to be excused.
+
+*** Documentation for excused absences
+
+ Religious observance: By the fourth class session, send an email to your instructor---copied to your academic advisor---in which you outline all of the dates you will be absent for the semester. Create a plan with your instructor to make up work or reschedule deadlines.
+
+ Athletic commitments: Only participation in athletic competitions will count as excused absences; practice sessions do not. Prior to any absence, you must submit to your instructor a completed and signed “Columbia University Intercollegiate Athletics Academic Absence Notification Form.” Create a plan with your instructor to make up work or reschedule deadlines. [[http://www.college.columbia.edu/sites/default/files/intercollegiate_athletic_academic_absence_notification_form.pdf][Here is a link to the form]]. 
+ 
+ Illness: For an absence due to illness to count as excused, please provide a signed doctor's note. You should bring the note to class on the day you are able to return. If you can, email your instructor to indicate that you will be unable to attend class.
+
+ Section changes: If you change your section of University Writing in the first two weeks of class, you must provide your new instructor a completed and signed “University Writing Attendance Confirmation” form. Please see Mr. John Stobo in the Undergraduate Writing Program office, 310 Philosophy Hall, for a copy of the form.
+
+ All other absences, including those due to late registration, are considered unexcused. Unexcused absences will affect your grade according to the chart below. Please also note the lateness policy in the next section to understand how latenesses count toward your total number of absences.
+
+ | Number of unexcused absences | Grade Penalty                      |
+ |------------------------------+------------------------------------|
+ |                          1-3 | 1/3 of a letter, progression grade |
+ |                            4 | 1/3 of a letter, course grade      |
+ |                            5 | Full letter, course grade          |
+ |                            6 | Two full letters, course grade     |
+ |                            7 | F for UW, course grade             |
+
+*** Lateness
+
+ Because lateness is disruptive to the entire class, if you arrive once class is underway or depart before the class session has ended, you will be marked as late. /Two latenesses count as one absence in calculating your final course grade./
+
+** Conferences and Office Hours
+
+ You will have two 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, or to revise your essays. You are welcome to come and see me in office hours, or schedule an appointment to discuss any aspect of the course. Schedule the first conference during Progression 2, and the second conference during Progression 3. 
+
+** Assessment and Response
+
+ All of the writing you submit on time for this class will receive some sort of written or recorded response from me and/or your classmates. While writing exercises and preliminary drafts will not receive grades, they will be important for your development as a writer and thinker, and you are expected to complete them all.
+
+ During the first three progressions, I will write marginal comments and typed end-comments to one preliminary draft as well as your final draft. For your final progression, you will receive end-comments on your final draft that respond to the essay as well as your development over the course of the semester.
+
+ My comments are designed to help you assess your draft and prioritize goals for the next stage of your writing. Just as important, my comments will offer you practical strategies designed to further your ongoing development as a writer. If you have any questions about my comments, please make an appointment with me to review them.
+
+** Essay Grading
+
+Each final essay will receive a letter grade ranging from A to F. 
+
+- *A*: fulfills all the progression goals, and exceeds them in surprising ways that demonstrate creative and expressive thinking. An A essay is daring, original in its ideas; concise, careful, and precise in its prose. 
+
+- *B*: fulfills the requirements of the progression. Its arguments are well-organized, and its prose is clear and readable. B essays reflect superior understanding of the progression's goals.
+
+- *C*: reflects struggles with fulfilling the progression's goals. This kind of essay may show a fair amount of work, but it does not come together well enough to be a competent paper.
+
+- *D*: may appear hastily written or incomplete. 
+
+- *F*: fails to meet the minimum requirements. 
+
+** Late and Missed Assignments, Drafts, and Final Essays
+
+Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. If you turn in work late, I may not be able to provide you feedback. Please complete all of your writing exercise on time, as missed exercises can impact the quality and grade of your essay.
+
+Feedback and revision are critical components of this class. If you are missing either of the preliminary drafts, or do not turn them in at least 48 hours before the deadline of the final draft, your final essay grade will be lowered by one whole grade (e.g. from a B to a C). Your grade on the final essay will be lowered by 1/3 (e.g. from a B- to a C+) beginning the minute after its deadline. The grade will continue to go down by a third every 24 hours until the essay is submitted. All work must be submitted to Courseworks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
+
+** Final Grades
+
+ Your course work for the semester will be weighted as follows:
+
+ | Progression            | % Total |
+ |------------------------+---------|
+ | P1: Critical Response  |     20% |
+ | P2: Conversation Essay |     25% |
+ | P3: Research Essay     |     35% |
+ | P4: Editorial Essay    |     20% |
+ |------------------------+---------|
+ | Total:                 |    100% |
+
+** Participation
+
+As in all seminars, your participation will contribute to building a vibrant learning community. While there is no separate grade for participation, I may adjust a final grade up or down by a third of a letter grade to account for exceptionally productive or disruptive participation.
+
+** Academic Integrity
+
+University Writing will provide you with strategies for working ethically and accurately with sources and adhering to the Columbia [[http://www.college.columbia.edu/ccschonorcode#http://www.college.columbia.edu/ccschonorcode][Undergraduate Honor Code]]. 
+ 
+We will discuss source use practices that prevent plagiarism, a serious academic offense that runs counter to our academic community's core values of honesty and respect for others. Here is a partial list from the /[[https://www.college.columbia.edu/academics/academicintegrity][Columbia University Undergraduate Guide to Academic Integrity]]/ of some of the forms plagiarism can take:
+
+ - “Verbatim copying without acknowledgement -- copying a whole paragraph or larger sections; in effect, claiming that the writing is your own.”
+ - “Copying select phrases without acknowledgement -- using your own words to pad the selectively copied words of others.”
+ - “Paraphrasing text without acknowledgement -- rewriting text in your own words, but using the idea or argument as your own.”
+ - “Using data gathered by another, claiming it as your own -- even if you submit an analysis of the data that is yours alone.”
+
+Final drafts that contain plagiarism will receive a zero, may result in failure of the course, and the case will be reported to the director of the Undergraduate Writing Program and the [[http://studentconduct.columbia.edu/][Office of Student Conduct and Community Standards]]. That office initiates the dean's discipline process and determines whether to apply sanctions, which range from a warning to expulsion from the university.
+
+** The Writing Center
+
+ I encourage you to visit the Writing Center, where you can receive free individual consultations on your writing at any stage in the writing process, including brainstorming. Writing consultants work with all members of the Columbia community on any academic or nonacademic writing. You can make an appointment and view drop in hours on [[http://www.college.columbia.edu/core/uwp/writing-center][their website]]. 
+
+** Accommodations for Students with Disabilities
+
+ Columbia University provides students who register with the [[/http://www.health.columbia.edu/ods/news/ds-programs.html/][Office of Disability Services (ODS)]] with a range of support options and will provide you with a letter stating the accommodations to which you are entitled, without disclosing any other information about you. If you know or believe you have a disability of some kind, please consult with Disability Services and your advising dean as soon as possible; University Writing instructors need official documentation from the ODS in order to provide accommodations, and we cannot make retroactive accommodations.
+
+** Counseling and Psychological Services
+
+ The [[http://www.health.columbia.edu/cps/index.html/][Office of Counseling and Psychological Services (CPS)]] provides many kinds of support for student wellness and academic success.
+
+* Schedule
+** Session 1: Intro: 9/5
+- Introductions, overview, reading strategies.
+** Session 2: 1a: 9/7
+- Alan Turing, "Computing Machinery and Intelligence"
+- /They Say / I Say/ Ch. 1; exercises.  
+** Session 3: 1b: 9/12
+- Freud, "The Uncanny"
+- /They Say / I Say/ Ch. 2; exercises.
+** Session 4: 1c: 9/14
+- Halberstam, "Automating Gender"
+- P1 exploratory draft due
+** Session 5: 1d: 9/19
+- Licklider and Taylor, "The Computer as a Communication Device"
+- /They Say / I Say/ Ch. 3; exercises
+** 9/20 Wed
+- P1 formal draft due
+** Session 6: 1f: 9/21
+- /They Say / I Say/ Ch. 4; exercises.  
+- P1 peer review. 
+** Session 7: 1g: 9/26
+- /They Say / I Say/ Ch. 5; exercises.  
+- P1 draft feedback
+- Schedule first conference
+** Session 8: 2a: 9/28
+- /They Say / I Say/ Ch. 6; exercises.
+- Tenen, "Unintelligent Design"
+** 10/2 Mon
+- P1 final due
+** Session 9: 2b: 10/3
+- Desrosieres, "How Real are Statistics?"
+- /They Say / I Say/ Ch. 7; exercises.
+** Session 10: 2c 10/5
+- Intro., Ch. 1 from Huff, /How to Lie with Statistics/
+- P2 exploratory draft due
+** Session 11: 2d: 10/10
+- /They Say / I Say/ Ch. 8; exercises.
+- P1 final returned
+- Gelman, "How many Zombies Do You Know?"
+- Gelman, "Too Good to be True"
+** Session 12: 2e: 10/12
+- /They Say / I Say/ Ch. 9; exercises.
+- Firestein, "Ignorance, How it Drives Science"
+** 10/13 Speaker: David Blei 12:30-2pm
+** Session 13: 2f: 10/17
+- P2 formal draft due
+- selections from Silver, /The Signal and the Noise/
+** Session 14: 2g: 10/19
+- P2 draft peer review
+- /They Say / I Say/ Ch. 10; exercises.
+** Session 15: 3a: 10/24
+- P2 feedback
+- /They Say / I Say/ Ch. 11; exercises.
+- Rosenberg, "Data Before the Fact"
+** Session 16: 3b: 10/26
+- /They Say / I Say/ Ch. 12; exercises.
+- Hong, "Data's Intimacy"
+** 10/30 Mon
+- P2 final due
+** Session 17: 3c: 10/31
+- /They Say / I Say/ Ch. 13; exercises.
+- Daley, "What You Don't Know Can Kill You" 
+- Espeland and Stevens, "Sociology of Quantification"
+** Session 18: 3d: 11/2
+- Library session (placeholder; could be between sessions 16 and 20).
+- Annotated bibliography due.
+- selections from Stephens-Davidowitz, /Everybody Lies/
+** Session 19: 3e: 11/9
+- /They Say / I Say/ Ch. 14; exercises.
+- P3 exploratory draft due
+- selections from Rudder, /Dataclysm/
+** Session 20: 3f: 11/14
+- /They Say / I Say/ Ch. 15; exercises.
+- selections from Jockers, /Macroanalysis/
+** Session 21: 3g: 11/16
+- P3 formal draft due
+- selections from Moretti, /Graphs, Maps, Trees/
+** Session 22: 3i: 11/21
+- P3 peer review
+** Session 23: 4a: 11/23
+- /They Say / I Say/ Ch. 16; exercises.
+- selections from Pennebaker, /The Secret Life of Pronouns/ 
+** Session 24: 4b: 11/28
+- /They Say / I Say/ Ch. 17; exercises.
+- Claude Shannon and Norbert Weiner, /A Mathematical Theory of Communication/
+** 12/1 Op-ed event 1-2:30pm
+** 12/4 Mon 
+- P3 final due
+** Session 25: 4c: 12/5
+- Film: Herzog, /Lo and Behold: Reveries of the Connected World/
+  - available for rent for about $4 from a number of streaming services
+** Session 26: 4d: 12/7
+- In-class evaluations
+- Selected published op-eds written by students
+** 12/11 Mon
+- P4 final due
+- P3 final returned

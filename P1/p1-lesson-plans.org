@@ -1,0 +1,46 @@
+* P1 Lesson Plans
+** Session 1: Intro: 9/5
+- Introductions, overview, reading strategies.
+
+- 30: Syllabus review. 
+- 30: Introductions, icebreakers. 
+- 15: Reading strategies.
+  - Annotation and notetaking techniques.
+  - An introduction to close reading.
+
+** Session 2: 1a: 9/7
+- Alan Turing, "Computing Machinery and Intelligence"
+- /They Say / I Say/ Ch. 1; exercises.
+
+- 15: Further discussion of close reading techniques.
+- 15: Discussion of Turing reading, general.
+- 15: Close reading of a single passage from Turing. 
+- 30: Discussion of templates presented in TSIS. 
+  - Homework review (TSIS Ch. 1 exercises).
+
+** Session 3: 1b: 9/12
+- Halberstam, "Automating Gender"
+- /They Say / I Say/ Ch. 2; exercises.
+
+- 30: Discussion of Halberstam. 
+
+** Session 4: 1c: 9/14
+- Freud, "The Uncanny" 
+- P1 exploratory draft due
+
+** Session 5: 1d: 9/19
+- /They Say / I Say/ Ch. 3; exercises
+- Licklider and Taylor, "The Computer as a Communication Device"
+
+** 9/20 Wed
+- P1 formal draft due
+
+** Session 6: 1f: 9/21
+- /They Say / I Say/ Ch. 4; exercises.  
+- P1 peer review.
+
+** Session 7: 1g: 9/26
+- /They Say / I Say/ Ch. 5; exercises.  
+- Tenen, "Unintelligent Design"
+- P1 draft feedback
+- Schedule first conference
