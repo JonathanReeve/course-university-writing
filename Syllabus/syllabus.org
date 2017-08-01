@@ -199,7 +199,7 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 ** Session 1: Intro: 9/5
 - Introductions, overview, reading strategies.
 ** Session 2: 1a: 9/7
-- Alan Turing, "Computing Machinery and Intelligence"
+- [[https://courseworks2.columbia.edu/files/1371728/download?download_frd=1][Alan Turing, "Computing Machinery and Intelligence"]]
 - /They Say / I Say/ Ch. 1; exercises.  
 ** Session 3: 1b: 9/12
 - Freud, "The Uncanny"
@@ -219,9 +219,10 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 - /They Say / I Say/ Ch. 5; exercises.  
 - P1 draft feedback
 - Schedule first conference
+- Tenen, "Unintelligent Design"
 ** Session 8: 2a: 9/28
 - /They Say / I Say/ Ch. 6; exercises.
-- Tenen, "Unintelligent Design"
+- Espeland and Stevens, "Sociology of Quantification"
 ** 10/2 Mon
 - P1 final due
 ** Session 9: 2b: 10/3
@@ -257,7 +258,6 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 ** Session 17: 3c: 10/31
 - /They Say / I Say/ Ch. 13; exercises.
 - Daley, "What You Don't Know Can Kill You" 
-- Espeland and Stevens, "Sociology of Quantification"
 ** Session 18: 3d: 11/2
 - Library session (placeholder; could be between sessions 16 and 20).
 - Annotated bibliography due.
