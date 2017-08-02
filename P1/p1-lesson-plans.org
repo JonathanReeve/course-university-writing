@@ -15,23 +15,34 @@
 - 15: Further discussion of close reading techniques.
 - 15: Discussion of Turing reading, general.
 - 15: Close reading of a single passage from Turing. 
-- 30: Discussion of templates presented in TSIS. 
-  - Homework review (TSIS Ch. 1 exercises).
+- 30: Homework review (TS/IS Ch. 1 exercises). 
+  - Discussion of templates in TS/IS.
+  - Discussion of P1 draft specifications. 
 
 ** Session 3: 1b: 9/12
 - Halberstam, "Automating Gender"
 - /They Say / I Say/ Ch. 2; exercises.
 
-- 30: Discussion of Halberstam. 
+- 30: Discussion of Halberstam.
+- 30: Homework review (Ch. 2 exercises).
+- 15: In-class writing: summaries of Halberstam, using TS/IS techniques.
 
 ** Session 4: 1c: 9/14
 - Freud, "The Uncanny" 
 - P1 exploratory draft due
 
+- 30: Discussion of Freud.
+- 45: Workshop of exploratory drafts.
+
 ** Session 5: 1d: 9/19
 - /They Say / I Say/ Ch. 3; exercises
 - Licklider and Taylor, "The Computer as a Communication Device"
 
+- 15: Focused free-writing: summary of Licklider and Taylor. 
+- 30: Discussion of Licklider and Taylor.
+- 15: Homework review (Ch. 3 exercises.)
+- 15: Further discussion of formal draft requirements. 
+ 
 ** 9/20 Wed
 - P1 formal draft due
 
@@ -39,8 +50,15 @@
 - /They Say / I Say/ Ch. 4; exercises.  
 - P1 peer review.
 
+1:15: Peer review workshop. 
+
 ** Session 7: 1g: 9/26
 - /They Say / I Say/ Ch. 5; exercises.  
 - Tenen, "Unintelligent Design"
 - P1 draft feedback
 - Schedule first conference
+
+- 15: On radical revision, and how best to use feedback. 
+- 15: Homework review (Ch. 5 exercises.)
+- 15: Workshop of essays from Ch. 5 exercises. 
+- 30: Discussion of Tenen. 
