@@ -2,6 +2,8 @@
 ** Session 1: Intro: 9/5
 - Introductions, overview, reading strategies.
 
+Goals: an understanding of course policies; basic techniques of active reading: note-taking, annotation; a rudimentary understanding of close reading. 
+
 - 30: Syllabus review. 
 - 30: Introductions, icebreakers. 
 - 15: Reading strategies.
@@ -12,36 +14,56 @@
 - Alan Turing, "Computing Machinery and Intelligence"
 - /They Say / I Say/ Ch. 1; exercises.
 
+Goals: generation of a few questions that interrogate or expand upon the Turing reading, which could be used in P1 drafts.  
+
+- 15: 
+  - Ss each generate two questions (paradoxes, problems) that expand upon the Turing reading.
+  - Write these questions on the board. 
+  - Ss choose questions to attempt to answer. 
 - 15: Further discussion of close reading techniques.
-- 15: Discussion of Turing reading, general.
 - 15: Close reading of a single passage from Turing. 
-- 30: Homework review (TS/IS Ch. 1 exercises). 
+- 15: Homework review (TS/IS Ch. 1 exercises). 
   - Discussion of templates in TS/IS.
-  - Discussion of P1 draft specifications. 
+- 15:  
+  - Distribute P1 prompt. 
+  - Intro to P1 draft specifications.
 
 ** Session 3: 1b: 9/12
-- Halberstam, "Automating Gender"
+- Freud, "The Uncanny" 
 - /They Say / I Say/ Ch. 2; exercises.
 
-- 30: Discussion of Halberstam.
-- 30: Homework review (Ch. 2 exercises).
-- 15: In-class writing: summaries of Halberstam, using TS/IS techniques.
+Goals: summarization techniques; identification of implicit claims in an argument.
+
+- 15: Focused free writing, given a choice between several questions relating to the Freud reading. 
+- 15: Sharing our writing, opening the questions to the class. 
+- 15: Board work: using specific verbs to summarize an argument.
+- 15: In-class exercise: edit sentences to improve specificity of verb usage in summaries. 
+- 15: Homework review (Ch. 2 exercises).
+  - Pair work: Ss exchange responses to Ex. 1, and try to guess which position(s) the other holds.  
 
 ** Session 4: 1c: 9/14
-- Freud, "The Uncanny" 
+- Halberstam, "Automating Gender"
 - P1 exploratory draft due
 
-- 30: Discussion of Freud.
+Goals: hone and practice summarization skills.  
+
+- 15: Group work: identify passages where Halberstam cites Freud and Turing, and take note of how he summarizes their arguments to build his own. 
+- 15: In-class writing: summaries of Halberstam, following summarization techniques/templates illustrated in TS/IS.
 - 45: Workshop of exploratory drafts.
 
 ** Session 5: 1d: 9/19
+- Tenen, "Unintelligent Design"
 - /They Say / I Say/ Ch. 3; exercises
-- Licklider and Taylor, "The Computer as a Communication Device"
 
-- 15: Focused free-writing: summary of Licklider and Taylor. 
-- 30: Discussion of Licklider and Taylor.
+Goals: a better understanding of higher-level essay structure. 
+
+- 15: On higher-level organization of a short essay: introductions, evidence, conclusions. 
+- 15: Handout: introductory paragraphs. 
+  - Open questions: Which have compelling arguments, and why? 
 - 15: Homework review (Ch. 3 exercises.)
-- 15: Further discussion of formal draft requirements. 
+- 15: Discussion of Tenen. 
+  - Reverse outlining of Tenen's essay structure. 
+- Further discussion of formal draft requirements. 
  
 ** 9/20 Wed
 - P1 formal draft due
@@ -50,15 +72,20 @@
 - /They Say / I Say/ Ch. 4; exercises.  
 - P1 peer review.
 
-1:15: Peer review workshop. 
+- 10: Explanation of peer review procedure.
+- 1:05: Peer review workshop. 
 
 ** Session 7: 1g: 9/26
-- /They Say / I Say/ Ch. 5; exercises.  
-- Tenen, "Unintelligent Design"
+- /They Say / I Say/ Ch. 5; exercises.
+- Claude Shannon, "A Mathematical Theory of Communication" 
 - P1 draft feedback
 - Schedule first conference
 
+Goals: beginnings of synthesis of sources in comparison for P2. Comparison and contrast. 
+
+- 30: Discussion of Shannon
+  - 15: In-class demonstration of a language Markov chain.
+  - 15: Planting seeds for P2: how does Shannon's probabilistic model of language compare with the Infinite Monkey Theorem described in Tenen? 
+- 15: Homework review (Ch. 5 Ex. 1). How does Charlip integrate the views of others into her essay, while distinguishing between her own views and those of others?  
+- 15: Homework review (Ex. 2): The exercise asks us to identify places in your own writing where you engage multiple views. Ss identify these moments in their P1 drafts, and answer Ex. 2's other questions about their own drafts.
 - 15: On radical revision, and how best to use feedback. 
-- 15: Homework review (Ch. 5 exercises.)
-- 15: Workshop of essays from Ch. 5 exercises. 
-- 30: Discussion of Tenen. 
