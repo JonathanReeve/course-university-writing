@@ -13,9 +13,9 @@ Instructor: Jonathan Reeve
 
 Email: jonathan.reeve@columbia.edu
 
-Office hours/location: Fridays, 1-2pm, at the University Writing Program Offices, 310 Philosophy Hall, or by appointment.  
+Office hours/location: Fridays, 1-3pm, at the University Writing Program Offices, 310 Philosophy Hall, or by appointment.  
 
-Mailbox address: 310 Philosophy Hall
+Mailbox address: 310 Philosophy Hall.
 
 * Course Description
 
@@ -37,7 +37,7 @@ We will also read more specific exemplars of data-driven research, taken from da
  - What does linguistic data reveal about us? 
  - What can a close attention to our language, whether quantitative or qualitative, tell us about ourselves? 
 
-Since Progression 3 will require the use of unassigned sources, fewer readings are assigned during Progressions 3, to allow more time for independent research. Similarly, readings for Progression 4, when we will be writing op-eds, will be op-eds. 
+Since Progression 3 will require the use of unassigned sources, fewer readings are assigned during Progression 3, to allow more time for independent research. Similarly, readings for Progression 4, when we will be writing op-eds, will be op-eds. 
 
 *Important note*: This syllabus contains important course information, and should be read in its entirety, and frequently consulted throughout the duration of the course. In it you will find course policies, all major due dates, and a schedule of readings. This syllabus is also available on Courseworks: http://courseworks.columbia.edu. This document is subject to change, so be sure that you have the most recent version of the document. 
 
@@ -49,9 +49,9 @@ Since Progression 3 will require the use of unassigned sources, fewer readings a
  - Attend and participate in all classes and required conferences.
  - Prepare reading and writing /exercises/ as assigned.
 
-* Assignments
+** Assignments
 
-You will do at least three types of writing in this course: /exercises/, drafts/, and /final essays/. These assignments will connect with one another in a developmental sequence called /a progression./
+You will do at least three types of writing in this course: /exercises/, /drafts/, and /final essays/. These assignments will connect with one another in a developmental sequence called /a progression./
 
  - Exercises: Exercises will help you develop skills and ideas as you work toward your essay draft. Most of these will be assigned at the ends of chapters from /They Say / I Say/, but some will be assigned in class. These will usually be about 100-400 words. 
 
@@ -69,23 +69,24 @@ You will do at least three types of writing in this course: /exercises/, drafts/
 
 MLA style is described on [[http://style.mla.org/formatting-papers][the MLA website]], which also contains a few [[https://style.mla.org/files/2016/08/6598_Brandon_Paper_Updated.pdf][examples]]. Close attention to the details here will help your essay make a great first impression. It's a good idea to buy a copy of the [[https://www.mla.org/Publications/Bookstore/Nonseries/MLA-Handbook-Eighth-Edition][/MLA Handbook/]], one of the optional texts listed below. It will certainly be useful beyond this class. MLA style is also described concisely in /A Pocket Style Manual/, one of the optional texts for this course.
 
-If you're tech-savvy, you can avoid a lot of pixel-pushing by writing in [[https://www.latex-project.org/][LaTeX]], or by writing in Markdown or Org-mode, and exporting to LaTeX with a tool like [[http://pandoc.org/][Pandoc]]. You can also manage your bibliography using BibTeX, or use bibliographic management software that will archive and organize your textual references and generate formatted citations in many styles. You can download one of those programs from [[http://library.columbia.edu/research/citation-management.html][CUIT]]. I recommend [[https://www.zotero.org/][Zotero]]. If you go this route, make sure your technical stack works well in advance of any deadlines. 
+If you're tech-savvy, you can avoid a lot of pixel-pushing by writing in [[https://www.latex-project.org/][LaTeX]], or by writing in Markdown or Org-mode, and exporting to LaTeX with a tool like [[http://pandoc.org/][Pandoc]]. There are [[https://github.com/JonathanReeve/md2mla][templates]] for MLA style online, but don't rely on them blindly without double-checking their output. You can manage your bibliography using BibTeX, or use bibliographic management software that will archive and organize your textual references and generate formatted citations in many styles. You can download one of those programs from [[http://library.columbia.edu/research/citation-management.html][CUIT]]. I recommend [[https://www.zotero.org/][Zotero]]. If you go this route, make sure your technical stack works well in advance of any deadlines. 
 
 *All essays must be submitted to CourseWorks, in PDF format.* Emailed essays, paper essays, and other file formats (.doc, .docx, .pages, and others) will not be accepted. It is your responsibility to verify that your essay has been properly uploaded. If you are new to uploading assignments to CourseWorks, give yourself ample time to familiarize yourself with the process long before the deadline.  
 
-* Required Texts
-
-The syllabus, course description, requirements, readings, assignments, and links to resources are available on [[https://courseworks.columbia.edu][CourseWorks]]. *Bring a copy of all assigned readings to class, either on paper or on an electronic device*. As we will always be referring back to earlier readings, it's always a good idea to bring prior readings to class, as well. 
+* Texts
+** Required
 
 The following text is required, in the third edition. As we'll be using the latest MLA citation style, corresponding to the 2016 eighth edition of the /MLA Handbook/, it is important that you buy this exact edition, since earlier editions may use outdated citation styles.
 
 Graff, Gerald, and Cathy Birkenstein. /“They Say, I Say”: The Moves that Matter in Academic Writing/, Third Edition. W. W. Norton, 2014.
 
+All other materials, such as the syllabus, course description, requirements, readings, assignments, and links to resources are available on [[https://courseworks.columbia.edu][CourseWorks]]. *Bring a copy of all assigned readings to class, either on paper or on an electronic device*. As we will always be referring back to earlier readings, it's always a good idea to bring prior readings to class, as well. 
+
 Later in the semester, you will also be required to watch Werner Herzog's film, /Lo and Behold: Reveries of the Connected World/, available for rent for around $4 from various streaming sites (YouTube, Google Play, Amazon, etc.). To save money on the rental, you can arrange to watch it with classmates. 
 
-* Recommended Texts
+** Recommended 
 
-These books are common, and should be available at the university bookstore and at Bookculture. 
+These books are common, and should be available at the university bookstore and at Bookculture. Etexts are also available for all of these. Make sure to get the very latest editions, as older editions could teach you outdated citation styles.
 
 1. Hacker, Diana. /A Pocket Style Manual/, Seventh Edition.
 2. Modern Language Association of America. /The MLA Handbook/. Modern Language Association of America, 2016.
@@ -167,9 +168,9 @@ Feedback and revision are critical components of this class. If you are missing 
  |------------------------+---------|
  | Total:                 |    100% |
 
-** Participation
+*** Adjustments 
 
-As in all seminars, your participation will contribute to building a vibrant learning community. While there is no separate grade for participation, I may adjust a final grade up or down by a third of a letter grade to account for exceptionally productive or unproductive participation.
+As in all seminars, your participation will contribute to building a vibrant learning community. While there is no separate grade for participation, I may adjust a final grade up or down by a third of a letter grade to account for exceptionally productive or non-productive participation.
 
 ** Academic Integrity
 
@@ -203,14 +204,15 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 - [[https://courseworks2.columbia.edu/files/1371728/download?download_frd=1][Alan Turing, "Computing Machinery and Intelligence"]]
 - /They Say / I Say/ Ch. 1; exercises.  
 ** Session 3: 1b: 9/12
-- Freud, "The Uncanny"
+- [[https://courseworks2.columbia.edu/files/1474321/download?download_frd=1][Freud, "The Uncanny"]]
 - /They Say / I Say/ Ch. 2; exercises.
+- Recommended reading: essays from the [[https://morningsidereview.org/assignment/critical-response/][Morningside Review P1 Essays]].
 ** Session 4: 1c: 9/14
-- Halberstam, "Automating Gender"
+- [[https://courseworks2.columbia.edu/files/1474375/download?download_frd=1][Halberstam, "Automating Gender"]]
 - P1 exploratory draft due
 - Visit from writing center instructor? 
 ** Session 5: 1d: 9/19
-- Tenen, "Unintelligent Design"
+- [[https://courseworks2.columbia.edu/files/1474378/download?download_frd=1][Tenen, "Unintelligent Design"]]
 - /They Say / I Say/ Ch. 3; exercises
 - Visit from writing center instructor? 
 ** 9/20 Wed
