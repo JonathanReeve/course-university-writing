@@ -201,7 +201,7 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 ** Session 1: Intro: 9/5
 - Introductions, overview, reading strategies.
 ** Session 2: 1a: 9/7
-- [[https://courseworks2.columbia.edu/files/1371728/download?download_frd=1][Alan Turing, "Computing Machinery and Intelligence"]]
+- [[https://courseworks2.columbia.edu/files/1485955/download?download_frd=1][Alan Turing, "Computing Machinery and Intelligence"]]
 - /They Say / I Say/ Ch. 1; exercises.  
 ** Session 3: 1b: 9/12
 - [[https://courseworks2.columbia.edu/files/1474321/download?download_frd=1][Freud, "The Uncanny"]]
@@ -244,7 +244,6 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 ** Session 12: 2e: 10/12
 - /They Say / I Say/ Ch. 9; exercises.
 - selections from Rudder, /Dataclysm/
-** 10/13 Speaker: David Blei 12:30-2pm
 ** Session 13: 2f: 10/17
 - P2 formal draft due
 - Schedule second conference
@@ -252,6 +251,7 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 - P2 draft peer review
 - /They Say / I Say/ Ch. 10; exercises.
 - selections from Jockers, /Macroanalysis/
+** 10/20 Speaker: David Blei 12:30-2pm
 ** Session 15: 3a: 10/24
 - P2 feedback
 - /They Say / I Say/ Ch. 11; exercises.
