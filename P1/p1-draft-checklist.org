@@ -1,0 +1,23 @@
+* P1 Draft Checklist
+
+Do the first two pages of the draft in front of you have ... ? 
+
+** Argument
+
+ - Good summaries of source material
+ - Good quotations of source material 
+ - A clear, coherent argument ("I say")
+ - A motive ("why should we care?")
+
+** Formatting
+ 
+ - Good in-text citation formats (Freud 243)
+ - Consistent use of double space throughout
+ - No extra spaces around the title or between paragraphs
+ - 1" margins; running head with page numbers, 1/2" from the top of the page
+
+** Work Cited Page
+  
+ - Heading titled: "Work Cited" 
+ - Hanging indent of 1/2"
+ - Correct bibliographic format for either Freud or Turing
