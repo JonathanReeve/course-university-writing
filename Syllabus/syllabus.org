@@ -222,7 +222,7 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 - P1 peer review. 
 ** Session 7: 1g: 9/26
 - /They Say / I Say/ Ch. 5; exercises.  
-- Claude Shannon, "A Mathematical Theory of Communication" 
+- [[https://courseworks2.columbia.edu/files/1573774/download?download_frd=1][Claude Shannon, "A Mathematical Theory of Communication"]]
 - P1 draft feedback
 - Schedule first conference
 ** Session 8: 2a: 9/28
