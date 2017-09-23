@@ -227,19 +227,19 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 - Schedule first conference
 ** Session 8: 2a: 9/28
 - /They Say / I Say/ Ch. 6; exercises.
-- selections from Silver, /The Signal and the Noise/
+- [[https://courseworks2.columbia.edu/files/1592142/download?download_frd=1][selections from Silver, /The Signal and the Noise/]]
 ** 10/2 Mon
 - P1 final due
 ** Session 9: 2b: 10/3
 - /They Say / I Say/ Ch. 7; exercises.
-- Gelman, "How many Zombies Do You Know?"
-- Gelman, "Too Good to be True"
+- [[https://courseworks2.columbia.edu/files/1592240/download?download_frd=1][selections from Stephens-Davidowitz, /Everybody Lies/]]
 ** Session 10: 2c 10/5
 - P2 exploratory draft due
-- selections from Stephens-Davidowitz, /Everybody Lies/
+- [[http://www.slate.com/articles/health_and_science/science/2013/07/statistics_and_psychology_multiple_comparisons_give_spurious_results.html][Gelman, "Too Good to be True"]]
+- [[https://courseworks2.columbia.edu/files/1592260/download?download_frd=1][Gelman, "How many Zombies Do You Know?"]]
 ** Session 11: 2d: 10/10
 - /They Say / I Say/ Ch. 8; exercises.
-- Intro., Ch. 1 from Huff, /How to Lie with Statistics/
+- [[https://courseworks2.columbia.edu/files/1592864/download?download_frd=1][selections from Huff, /How to Lie with Statistics/]]
 - P1 final returned
 ** Session 12: 2e: 10/12
 - /They Say / I Say/ Ch. 9; exercises.
