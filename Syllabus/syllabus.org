@@ -243,14 +243,14 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 - P1 final returned
 ** Session 12: 2e: 10/12
 - /They Say / I Say/ Ch. 9; exercises.
-- selections from Rudder, /Dataclysm/
+- [[https://courseworks2.columbia.edu/files/1709409/download?download_frd=1][selections from Rudder, /Dataclysm/]]
 ** Session 13: 2f: 10/17
 - P2 formal draft due
 - Schedule second conference
 ** Session 14: 2g: 10/19
 - P2 draft peer review
 - /They Say / I Say/ Ch. 10; exercises.
-- selections from Jockers, /Macroanalysis/
+- selections from David Blei
 ** 10/20 Speaker: David Blei 12:30-2pm
 ** Session 15: 3a: 10/24
 - P2 feedback
