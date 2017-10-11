@@ -251,6 +251,7 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 - P2 draft peer review
 - /They Say / I Say/ Ch. 10; exercises.
 - David Blei, [[http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf][Probabilistic Topic Models]]
+- David Blei, [[http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/][Topic Modeling and Digital Humanities]]
 ** 10/20 Speaker: David Blei 12:30-2pm
 ** Session 15: 3a: 10/24
 - P2 feedback
