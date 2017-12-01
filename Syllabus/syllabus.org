@@ -269,28 +269,26 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 - Library session.
 - Annotated bibliography due.
 ** Session 19: 3e: 11/9
-- /They Say / I Say/ Ch. 14; exercises.
+- /They Say / I Say/ Ch. 14
 - P3 exploratory draft due
 ** Session 20: 3f: 11/14
-- /They Say / I Say/ Ch. 15; exercises.
+- /They Say / I Say/ Ch. 15
 ** Session 21: 3g: 11/16
 - P3 formal draft due
 - workshops
 ** Session 22: 3i: 11/21
 - P3 peer review
 ** Session 23: 4a: 11/28
-- /They Say / I Say/ Ch. 16; exercises.
-- Selected published op-eds written by students.
-** 12/1 Op-ed event 1-2:30pm
-** 12/4 Mon 
-- /They Say / I Say/ Ch. 17; exercises.
-- [[https://www.nytimes.com/2017/08/25/opinion/tips-for-aspiring-op-ed-writers.html][Tips for Aspiring Op-Ed Writers - The New York Times]]
-- P3 final due
+- /They Say / I Say/ Ch. 16
+- [[https://courseworks2.columbia.edu/files/1999295/download?download_frd=1][Selected published op-eds written by students.]]
+** Session 24: 4b: 11/30
+- Op-eds
+** Session 24: 12/1 4c: Op-ed event 1-2:30pm, in 417 International Affairs Building
 ** Session 25: 4c: 12/5
-- Film: Herzog, /Lo and Behold: Reveries of the Connected World/
-  - available for rent for about $4 from a number of streaming services
+- P3 final due
+- [[https://www.nytimes.com/2017/08/25/opinion/tips-for-aspiring-op-ed-writers.html][Tips for Aspiring Op-Ed Writers - The New York Times]]
 ** Session 26: 4d: 12/7
+- P4 Plan Due
 - Wrap-up
 ** 12/11 Mon
 - P4 final due
-- P3 final returned

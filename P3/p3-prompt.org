@@ -1,0 +1,27 @@
+* P3 Prompt
+
+Research Essay
+
+Write a research essay that focuses on a specific aspect of Espeland and Stevens, "A Sociology of Quantification," makes a specific *claim* about this aspect, and employs ideas found in 5-7 additional academic works. The paper should be 2400-3000 words long. 
+
+Goals: 
+ - Identify a central *problem*, present in the Espeland and Stevens article, that is worth addressing.
+ - Formulate a *claim* about Espeland and Stevens that makes a strong argument and is not obvious.
+ - Establish a *motive* for the essay in your introduction. Here you will answer the “so what?” question, suggesting why your essay is important and interesting to an intelligent reader. Draw out the implications of the argument in your conclusion.
+ - *Structure* the essay around your central claim, making sure that each paragraph is adding an essential piece to your argument.
+ - Use *evidence* persuasively, quoting from your texts, summarizing or paraphrasing accurately and responsibly when appropriate. Do not provide evidence from other sources, or make general assertions (e.g., claims about “human nature”). Also avoid making general statements about data, data science, or data scientists, and instead, keep your argument focused on Espeland and Stevens.
+
+** Exploratory Draft
+Write a partial draft of four pages that includes at least three pages of polished prose. The unpolished sections of the partial draft can take the form of an outline or notes, though the general shape and argument of your paper should be apparent. Continue to think about the central problem that you are exploring. Is the problem resolved? Is the resolution (or absence of resolution) significant to the argument? Think about the motive of your claim. How does your claim and analysis help us to understand the texts' ideas in a new way?
+
+As with all written work in this class, ensure that your draft adheres to MLA style, including in-text citations for each quotation, and a Works Cited page containing entries for each citation. Post it to CourseWorks as a PDF file.
+
+** Formal Draft
+Make your formal draft as polished as possible. Think of it as a final draft. The better this draft is, the better your actual final draft will be.
+
+As with your exploratory draft, ensure that this draft adheres to MLA style, including in-text citations and a Works Cited page. Edit your draft thoroughly before submitting it. Tighten wordy sentences, choose specific verbs, and clarify vague constructions. Include a word count for your draft in the comments area of CourseWorks. 
+
+** Final Draft, due Monday, October 30th
+Your final draft should be a radical rewrite of your essay, taking into account instructor and peer feedback, but not merely responding to it. In other words, instead of correcting the occasional misspelled word, or tightening a few wordy sentences, make substantial and well-considered improvements to the structure and syntax or your essay. Post your final paper to the assignments section on CourseWorks.
+
+In the comments area of your submission on CourseWorks, please note the word count of your essay. Additionally, in this comments area, take 2-3 paragraphs to informally describe what your writing process was like for P2. For instance, you may want to talk about how you outlined, planned, or structured your essay prior to composition; what your revision process was like; or how you clarified your thoughts along the way. You may want to describe what challenges you faced as a writer, or what techniques were successful for you.
