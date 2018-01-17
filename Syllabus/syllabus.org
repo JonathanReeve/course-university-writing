@@ -3,11 +3,11 @@
 * General Information
 ENGL 1010 CC, Section 502
 
-Fall 2017
+Spring 2018
 
-Day/Time: Tues/Thurs 2:40pm-3:55pm
+Day/Time: Mon/Wed 2:40pm-3:55pm
 
-Location: 425 Pupin Hall
+Location: 502 Northwest Corner Building
 
 Instructor: Jonathan Reeve
 
@@ -15,7 +15,7 @@ Email: jonathan.reeve@columbia.edu
 
 Office hours/location: Fridays, 1-3pm, at the University Writing Program Offices, 310 Philosophy Hall, or by appointment.  
 
-Mailbox address: 310 Philosophy Hall.
+Mailbox address: 310 Philosophy Hall. (Don't use this.)
 
 * Course Description
 
@@ -82,11 +82,9 @@ Graff, Gerald, and Cathy Birkenstein. /“They Say, I Say”: The Moves that Mat
 
 All other materials, such as the syllabus, course description, requirements, readings, assignments, and links to resources are available on [[https://courseworks.columbia.edu][CourseWorks]]. *Bring a copy of all assigned readings to class, either on paper or on an electronic device*. As we will always be referring back to earlier readings, it's always a good idea to bring prior readings to class, as well. 
 
-Later in the semester, you will also be required to watch Werner Herzog's film, /Lo and Behold: Reveries of the Connected World/, available for rent for around $4 from various streaming sites (YouTube, Google Play, Amazon, etc.). To save money on the rental, you can arrange to watch it with classmates. 
-
 ** Recommended 
 
-These books are common, and should be available at the university bookstore and at Bookculture. Etexts are also available for all of these. Make sure to get the very latest editions, as older editions could teach you outdated citation styles.
+These books are strongly recommended. They are common texts, and so will probably be available at the university bookstore and at BookCulture. Etexts are also available for all of these. Make sure to get the very latest editions, as older editions could teach you outdated citation styles.
 
 1. Hacker, Diana. /A Pocket Style Manual/, Seventh Edition.
 2. Modern Language Association of America. /The MLA Handbook/. Modern Language Association of America, 2016.
@@ -101,23 +99,23 @@ In accordance with Columbia University regulations, there will be distinctions m
 
 *** Documentation for excused absences
 
- Religious observance: By the fourth class session, send an email to your instructor---copied to your academic advisor---in which you outline all of the dates you will be absent for the semester. Create a plan with your instructor to make up work or reschedule deadlines.
+Religious observance: By the fourth class session, send an email to your instructor---copied to your academic advisor---in which you outline all of the dates you will be absent for the semester. Create a plan with your instructor to make up work or reschedule deadlines.
 
- Athletic commitments: Only participation in athletic competitions will count as excused absences; practice sessions do not. Prior to any absence, you must submit to your instructor a completed and signed “Columbia University Intercollegiate Athletics Academic Absence Notification Form.” Create a plan with your instructor to make up work or reschedule deadlines. [[http://www.college.columbia.edu/sites/default/files/intercollegiate_athletic_academic_absence_notification_form.pdf][Here is a link to the form]]. 
+Athletic commitments: Only participation in athletic competitions will count as excused absences; practice sessions do not. Prior to any absence, you must submit to your instructor a completed and signed “Columbia University Intercollegiate Athletics Academic Absence Notification Form.” Create a plan with your instructor to make up work or reschedule deadlines. [[http://www.college.columbia.edu/sites/default/files/intercollegiate_athletic_academic_absence_notification_form.pdf][Here is a link to the form]]. 
  
- Illness: For an absence due to illness to count as excused, please provide a signed doctor's note. You should bring the note to class on the day you are able to return. If you can, email your instructor to indicate that you will be unable to attend class.
+Illness: For an absence due to illness to count as excused, please provide a signed doctor's note. You should bring the note to class on the day you are able to return. If you can, email your instructor to indicate that you will be unable to attend class.
 
- Section changes: If you change your section of University Writing in the first two weeks of class, you must provide your new instructor a completed and signed “University Writing Attendance Confirmation” form. Please see Mr. John Stobo in the Undergraduate Writing Program office, 310 Philosophy Hall, for a copy of the form.
+Section changes: If you change your section of University Writing in the first two weeks of class, you must provide your new instructor a completed and signed “University Writing Attendance Confirmation” form. Please see Mr. John Stobo in the Undergraduate Writing Program office, 310 Philosophy Hall, for a copy of the form.
 
- All other absences, including those due to late registration, are considered unexcused. Unexcused absences will affect your grade according to the chart below. Please also note the lateness policy in the next section to understand how latenesses count toward your total number of absences.
+All other absences, including those due to late registration, are considered unexcused. Unexcused absences will affect your grade according to the chart below. Please also note the lateness policy in the next section to understand how latenesses count toward your total number of absences.
 
- | Number of unexcused absences | Grade Penalty                      |
- |------------------------------+------------------------------------|
- |                          1-3 | 1/3 of a letter, progression grade |
- |                            4 | 1/3 of a letter, course grade      |
- |                            5 | Full letter, course grade          |
- |                            6 | Two full letters, course grade     |
- |                            7 | F for UW, course grade             |
+| Number of unexcused absences | Grade Penalty                      |
+|------------------------------+------------------------------------|
+|                          1-3 | 1/3 of a letter, progression grade |
+|                            4 | 1/3 of a letter, course grade      |
+|                            5 | Full letter, course grade          |
+|                            6 | Two full letters, course grade     |
+|                            7 | F for UW, course grade             |
 
 *** Lateness
 
@@ -125,15 +123,15 @@ In accordance with Columbia University regulations, there will be distinctions m
 
 ** Conferences and Office Hours
 
- You will have two 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, or to revise your essays. You are welcome to come and see me in office hours, or schedule an appointment to discuss any aspect of the course. Schedule the first conference during Progression 1, and the second conference during Progression 2. 
+You will have two 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, or to revise your essays. You are welcome to come and see me in office hours, or schedule an appointment to discuss any aspect of the course. Schedule the first conference during Progression 1, and the second conference during Progression 2. 
 
 ** Assessment and Response
 
- All of the writing you submit on time for this class will receive some sort of written or recorded response from me and/or your classmates. While writing exercises and preliminary drafts will not receive grades, they will be important for your development as a writer and thinker, and you are expected to complete them all.
+All of the writing you submit on time for this class will receive some sort of written or recorded response from me and/or your classmates. While writing exercises and preliminary drafts will not receive grades (or will receive a grade of "complete") they will be important for your development as a writer and thinker, and you are expected to complete them all.
 
- During the first three progressions, I will write marginal comments and typed end-comments to one preliminary draft as well as your final draft. For your final progression, you will receive end-comments on your final draft that respond to the essay as well as your development over the course of the semester.
+During the first three progressions, I will write marginal comments and typed end-comments to one preliminary draft as well as your final draft. For your final progression, you will receive end-comments on your final draft that respond to the essay as well as your development over the course of the semester.
 
- My comments are designed to help you assess your draft and prioritize goals for the next stage of your writing. Just as important, my comments will offer you practical strategies designed to further your ongoing development as a writer. If you have any questions about my comments, please make an appointment with me to review them.
+My comments are designed to help you assess your draft and prioritize goals for the next stage of your writing. Just as important, my comments will offer you practical strategies designed to further your ongoing development as a writer. If you have any questions about my comments, please make an appointment with me to review them.
 
 ** Essay Grading
 
@@ -151,13 +149,11 @@ Each final essay will receive a letter grade ranging from A to F.
 
 ** Late and Missed Assignments, Drafts, and Final Essays
 
-Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. If you turn in work late, I may not be able to provide you feedback. Please complete all of your writing exercise on time, as missed exercises can impact the quality and grade of your essay.
-
-Feedback and revision are critical components of this class. If you are missing either of the preliminary drafts, or do not turn them in at least 48 hours before the deadline of the final draft, your final essay grade will be lowered by one whole grade (e.g. from a B to a C). Your grade on the final essay will be lowered by 1/3 (e.g. from a B- to a C+) beginning the minute after its deadline. The grade will continue to go down by a third every 24 hours until the essay is submitted. All work must be submitted to Courseworks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
+Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. If you turn in work late, I may not be able to provide you feedback. Please complete all of your writing exercise on time, as missed exercises can impact the quality and grade of your essay. All assignments will be automatically lowered by 3% (e.g. from a B- to a C+) each day they are late, beginning the minute after their deadline. Additionally, if you are missing either of the preliminary drafts, or do not turn them in at least 48 hours before the deadline of the final draft, your final essay grade will be lowered by one whole grade (e.g. from a B to a C). All work must be submitted to CourseWorks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
 
 ** Final Grades
 
- Your course work for the semester will be weighted as follows:
+Your course work for the semester will be weighted as follows:
 
  | Progression            | % Total |
  |------------------------+---------|
@@ -187,7 +183,7 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 
 ** The Writing Center
 
- I encourage you to visit the Writing Center, where you can receive free individual consultations on your writing at any stage in the writing process, including brainstorming. Writing consultants work with all members of the Columbia community on any academic or nonacademic writing. You can make an appointment and view drop in hours on [[http://www.college.columbia.edu/core/uwp/writing-center][their website]]. 
+I encourage you to visit the Writing Center, where you can receive free individual consultations on your writing at any stage in the writing process, including brainstorming. Writing consultants work with all members of the Columbia community on any academic or nonacademic writing. You can make an appointment and view drop in hours on [[http://www.college.columbia.edu/core/uwp/writing-center][their website]]. 
 
 ** Accommodations for Students with Disabilities
 
@@ -198,97 +194,116 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
  The [[http://www.health.columbia.edu/cps/index.html/][Office of Counseling and Psychological Services (CPS)]] provides many kinds of support for student wellness and academic success.
 
 * Schedule
-** Session 1: Intro: 9/5
+** Session 1: Intro: 1/17
 - Introductions, overview, reading strategies.
-** Session 2: 1a: 9/7
+** Session 2: 1a: 1/22
 - [[https://courseworks2.columbia.edu/files/1485955/download?download_frd=1][Alan Turing, "Computing Machinery and Intelligence"]]
 - /They Say / I Say/ Ch. 1; exercises.  
-** Session 3: 1b: 9/12
+** Session 3: 1b: 1/24
 - [[https://courseworks2.columbia.edu/files/1474321/download?download_frd=1][Freud, "The Uncanny"]]
 - /They Say / I Say/ Ch. 2; exercises.
-- Recommended reading: essays from the [[https://morningsidereview.org/assignment/critical-response/][Morningside Review P1 Essays]].
-** Session 4: 1c: 9/14
+- Writing Center consultant visit
+** Recommended: Writing Center Workshop: 1/24, 6-7:30pm, 310 Philosophy Hall
+- Responding to texts
+** Session 4: 1c: 1/29
 - [[https://courseworks2.columbia.edu/files/1474375/download?download_frd=1][Halberstam, "Automating Gender"]]
+- Recommended reading: essays from the [[https://morningsidereview.org/assignment/critical-response/][Morningside Review P1 Essays]].
 - P1 exploratory draft due
-- Visit from writing center instructor? 
-** Session 5: 1d: 9/19
+** Session 5: 1d: 1/31
 - [[https://courseworks2.columbia.edu/files/1474378/download?download_frd=1][Tenen, "Unintelligent Design"]]
 - /They Say / I Say/ Ch. 3; exercises
-- Visit from writing center instructor? 
-** 9/20 Wed
+** Recommended: Writing Center Workshop: 1/31, 6-7:30pm, 310 Philosophy Hall
+- Developing claims
+** Session 6: 1f: 2/5
 - P1 formal draft due
-** Session 6: 1f: 9/21
 - /They Say / I Say/ Ch. 4; exercises.  
 - P1 peer review. 
-** Session 7: 1g: 9/26
+** Session 7: 1g: 2/7
 - /They Say / I Say/ Ch. 5; exercises.  
-- [[https://courseworks2.columbia.edu/files/1573774/download?download_frd=1][Claude Shannon, "A Mathematical Theory of Communication"]]
-- P1 draft feedback
-- Schedule first conference
-** Session 8: 2a: 9/28
-- /They Say / I Say/ Ch. 6; exercises.
 - [[https://courseworks2.columbia.edu/files/1592142/download?download_frd=1][selections from Silver, /The Signal and the Noise/]]
-** 10/2 Mon
+- Schedule first conference
+** Special Session: 2/7 6-8pm, Low Library
+- University Writing Event: Lee Bollinger
+- Reading TBA
+** Session 8: 2a: 2/12
 - P1 final due
-** Session 9: 2b: 10/3
+- /They Say / I Say/ Ch. 6; exercises.
+** Session 9: 2b: 2/14
 - /They Say / I Say/ Ch. 7; exercises.
 - [[https://courseworks2.columbia.edu/files/1592240/download?download_frd=1][selections from Stephens-Davidowitz, /Everybody Lies/]]
-** Session 10: 2c 10/5
+** Recommended: Writing Center Workshop: 2/14, 6-7:30pm, 310 Philosophy Hall
+- Putting texts in conversation
+** Session 10: 2c: 2/19
 - P2 exploratory draft due
 - [[http://www.slate.com/articles/health_and_science/science/2013/07/statistics_and_psychology_multiple_comparisons_give_spurious_results.html][Gelman, "Too Good to be True"]]
-- [[https://courseworks2.columbia.edu/files/1592260/download?download_frd=1][Gelman, "How many Zombies Do You Know?"]]
-** Session 11: 2d: 10/10
+** Session 11: 2d: 2/21
 - /They Say / I Say/ Ch. 8; exercises.
 - [[https://courseworks2.columbia.edu/files/1592864/download?download_frd=1][selections from Huff, /How to Lie with Statistics/]]
 - P1 final returned
-** Session 12: 2e: 10/12
+** International Students: Writing Center Workshop: 2/21, 6-7:30pm, 310 Philosophy Hall
+- First person
+** Session 12: 2e: 2/26
 - /They Say / I Say/ Ch. 9; exercises.
 - [[https://courseworks2.columbia.edu/files/1709409/download?download_frd=1][selections from Rudder, /Dataclysm/]]
-** Session 13: 2f: 10/17
+** Session 13: 2f: 2/28
 - P2 formal draft due
 - Schedule second conference
-** Session 14: 2g: 10/19
+** Recommended: Writing Center Workshop: 2/28, 6-7:30pm, 310 Philosophy Hall
+- Organization and structure
+** Session 14: 2g: 3/5
 - P2 draft peer review
 - /They Say / I Say/ Ch. 10; exercises.
 - David Blei, [[http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf][Probabilistic Topic Models]]
 - David Blei, [[http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/][Topic Modeling and Digital Humanities]]
-** 10/20 Speaker: David Blei 12:30-2pm
-** Session 15: 3a: 10/24
+** Session 15: 3a: 3/7
 - P2 feedback
 - [[https://courseworks2.columbia.edu/files/1794774/download?download_frd=1][Espeland and Stevens, "Sociology of Quantification"]]
-** Session 16: 3b: 10/26
+** International Students: Writing Center Workshop: 3/7, 6-7:30pm, 310 Philosophy Hall
+- Clauses
+** Session 16: 3b: 3/19
 - /They Say / I Say/ Ch. 11; checklist (see assignment description). 
-- /They Say / I Say/ Ch. 12. 
 - Read two articles of your choice from among those cited in Espeland and Stevens. 
-** 10/30 Mon
-- P2 final due
-** Session 17: 3c: 10/31
-- /They Say / I Say/ Ch. 13; exercises.
-- Read your choices of articles from academic journals.  
-** Session 18: 3d: 11/2
 - Library session.
+** Session 17: 3c: 3/21
+- P2 final due
+- /They Say / I Say/ Ch. 12. 
+- Read your choices of articles from academic journals.  
+** International Students: Writing Center Workshop: Friday, 3/23, TBA
+- Passive voice
+** Session 18: 3d: 3/26
+- /They Say / I Say/ Ch. 13; exercises.
 - Annotated bibliography due.
-** Session 19: 3e: 11/9
+** Session 19: 3e: 3/28
 - /They Say / I Say/ Ch. 14
 - P3 exploratory draft due
-** Session 20: 3f: 11/14
+** International Students: Writing Center Workshop: Friday, 3/30, TBA
+- Hedging language
+** Session 20: 3f: 4/2
 - /They Say / I Say/ Ch. 15
-** Session 21: 3g: 11/16
+** Session 21: 3g: 4/4
 - P3 formal draft due
-- workshops
-** Session 22: 3i: 11/21
+- P3 workshops
+** Recommended: Writing Center Workshop: Friday, 4/6, TBA
+- Researching for complexity
+** Session 22: 3i: 4/9
 - P3 peer review
-** Session 23: 4a: 11/28
+** Session 23: 4a: 4/11
 - /They Say / I Say/ Ch. 16
 - [[https://courseworks2.columbia.edu/files/1999295/download?download_frd=1][Selected published op-eds written by students.]]
-** Session 24: 4b: 11/30
+** Recommended: Writing Center Workshop: Friday, 4/13, TBA
+- Getting it done
+** Session 24: 4b: 4/16
 - Op-eds
-** Session 24: 12/1 4c: Op-ed event 1-2:30pm, in 417 International Affairs Building
-** Session 25: 4c: 12/5
+** Session 25: 4c: 4/18
 - P3 final due
 - [[https://www.nytimes.com/2017/08/25/opinion/tips-for-aspiring-op-ed-writers.html][Tips for Aspiring Op-Ed Writers - The New York Times]]
-** Session 26: 4d: 12/7
+** International Students: Writing Center Workshop: Friday, 4/20, TBA
+- Concision
+** Session 26: 4d: 4/23
 - P4 Plan Due
+- P4 Plan Workshops
 - Wrap-up
-** 12/11 Mon
+** Session 27: 4e: 4/25
+- P4 workshops
+** Session 28: 4/30
 - P4 final due
