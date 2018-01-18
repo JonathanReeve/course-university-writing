@@ -187,30 +187,30 @@ I encourage you to visit the Writing Center, where you can receive free individu
 
 ** Accommodations for Students with Disabilities
 
- Columbia University provides students who register with the [[/http://www.health.columbia.edu/ods/news/ds-programs.html/][Office of Disability Services (ODS)]] with a range of support options and will provide you with a letter stating the accommodations to which you are entitled, without disclosing any other information about you. If you know or believe you have a disability of some kind, please consult with Disability Services and your advising dean as soon as possible; University Writing instructors need official documentation from the ODS in order to provide accommodations, and we cannot make retroactive accommodations.
+Columbia University provides students who register with the [[/http://www.health.columbia.edu/ods/news/ds-programs.html/][Office of Disability Services (ODS)]] with a range of support options and will provide you with a letter stating the accommodations to which you are entitled, without disclosing any other information about you. If you know or believe you have a disability of some kind, please consult with Disability Services and your advising dean as soon as possible; University Writing instructors need official documentation from the ODS in order to provide accommodations, and we cannot make retroactive accommodations.
 
 ** Counseling and Psychological Services
 
- The [[http://www.health.columbia.edu/cps/index.html/][Office of Counseling and Psychological Services (CPS)]] provides many kinds of support for student wellness and academic success.
+The [[http://www.health.columbia.edu/cps/index.html/][Office of Counseling and Psychological Services (CPS)]] provides many kinds of support for student wellness and academic success.
 
 * Schedule
 ** Session 1: Intro: 1/17
 - Introductions, overview, reading strategies.
 ** Session 2: 1a: 1/22
-- [[https://courseworks2.columbia.edu/files/1485955/download?download_frd=1][Alan Turing, "Computing Machinery and Intelligence"]]
+- [[https://courseworks2.columbia.edu/files/2275930/download?download_frd=1][Alan Turing, "Computing Machinery and Intelligence"]]
 - /They Say / I Say/ Ch. 1; exercises.  
 ** Session 3: 1b: 1/24
-- [[https://courseworks2.columbia.edu/files/1474321/download?download_frd=1][Freud, "The Uncanny"]]
+- [[https://courseworks2.columbia.edu/files/2275938/download?download_frd=1][Freud, "The Uncanny"]]
 - /They Say / I Say/ Ch. 2; exercises.
 - Writing Center consultant visit
 ** Recommended: Writing Center Workshop: 1/24, 6-7:30pm, 310 Philosophy Hall
 - Responding to texts
 ** Session 4: 1c: 1/29
-- [[https://courseworks2.columbia.edu/files/1474375/download?download_frd=1][Halberstam, "Automating Gender"]]
+- [[https://courseworks2.columbia.edu/files/2275937/download?download_frd=1][Halberstam, "Automating Gender"]]
 - Recommended reading: essays from the [[https://morningsidereview.org/assignment/critical-response/][Morningside Review P1 Essays]].
 - P1 exploratory draft due
 ** Session 5: 1d: 1/31
-- [[https://courseworks2.columbia.edu/files/1474378/download?download_frd=1][Tenen, "Unintelligent Design"]]
+- [[https://courseworks2.columbia.edu/files/2275929/download?download_frd=1][Tenen, "Unintelligent Design"]]
 - /They Say / I Say/ Ch. 3; exercises
 ** Recommended: Writing Center Workshop: 1/31, 6-7:30pm, 310 Philosophy Hall
 - Developing claims
@@ -220,7 +220,7 @@ I encourage you to visit the Writing Center, where you can receive free individu
 - P1 peer review. 
 ** Session 7: 1g: 2/7
 - /They Say / I Say/ Ch. 5; exercises.  
-- [[https://courseworks2.columbia.edu/files/1592142/download?download_frd=1][selections from Silver, /The Signal and the Noise/]]
+- [[https://courseworks2.columbia.edu/files/2275939/download?download_frd=1][selections from Silver, /The Signal and the Noise/]]
 - Schedule first conference
 ** Special Session: 2/7 6-8pm, Low Library
 - University Writing Event: Lee Bollinger
@@ -230,7 +230,7 @@ I encourage you to visit the Writing Center, where you can receive free individu
 - /They Say / I Say/ Ch. 6; exercises.
 ** Session 9: 2b: 2/14
 - /They Say / I Say/ Ch. 7; exercises.
-- [[https://courseworks2.columbia.edu/files/1592240/download?download_frd=1][selections from Stephens-Davidowitz, /Everybody Lies/]]
+- [[https://courseworks2.columbia.edu/files/2275932/download?download_frd=1][selections from Stephens-Davidowitz, /Everybody Lies/]]
 ** Recommended: Writing Center Workshop: 2/14, 6-7:30pm, 310 Philosophy Hall
 - Putting texts in conversation
 ** Session 10: 2c: 2/19
@@ -238,13 +238,13 @@ I encourage you to visit the Writing Center, where you can receive free individu
 - [[http://www.slate.com/articles/health_and_science/science/2013/07/statistics_and_psychology_multiple_comparisons_give_spurious_results.html][Gelman, "Too Good to be True"]]
 ** Session 11: 2d: 2/21
 - /They Say / I Say/ Ch. 8; exercises.
-- [[https://courseworks2.columbia.edu/files/1592864/download?download_frd=1][selections from Huff, /How to Lie with Statistics/]]
+- [[https://courseworks2.columbia.edu/files/2275940/download?download_frd=1][selections from Huff, /How to Lie with Statistics/]]
 - P1 final returned
 ** International Students: Writing Center Workshop: 2/21, 6-7:30pm, 310 Philosophy Hall
 - First person
 ** Session 12: 2e: 2/26
 - /They Say / I Say/ Ch. 9; exercises.
-- [[https://courseworks2.columbia.edu/files/1709409/download?download_frd=1][selections from Rudder, /Dataclysm/]]
+- [[https://courseworks2.columbia.edu/files/2275934/download?download_frd=1][selections from Rudder, /Dataclysm/]]
 ** Session 13: 2f: 2/28
 - P2 formal draft due
 - Schedule second conference
@@ -253,11 +253,9 @@ I encourage you to visit the Writing Center, where you can receive free individu
 ** Session 14: 2g: 3/5
 - P2 draft peer review
 - /They Say / I Say/ Ch. 10; exercises.
-- David Blei, [[http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf][Probabilistic Topic Models]]
-- David Blei, [[http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/][Topic Modeling and Digital Humanities]]
 ** Session 15: 3a: 3/7
 - P2 feedback
-- [[https://courseworks2.columbia.edu/files/1794774/download?download_frd=1][Espeland and Stevens, "Sociology of Quantification"]]
+- [[https://courseworks2.columbia.edu/files/2275941/download?download_frd=1][Espeland and Stevens, "Sociology of Quantification"]]
 ** International Students: Writing Center Workshop: 3/7, 6-7:30pm, 310 Philosophy Hall
 - Clauses
 ** Session 16: 3b: 3/19

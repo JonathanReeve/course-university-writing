@@ -1,93 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-01-18 Thu 16:25 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>University Writing: Readings in Data Sciences</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Jonathan Reeve" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">University Writing: Readings in Data Sciences</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgecd3f13">1. General Information</a></li>
-<li><a href="#orgaf1aeba">2. Course Description</a></li>
-<li><a href="#orga49ccdf">3. Requirements</a>
+<li><a href="#orgef3d5bc">1. General Information</a></li>
+<li><a href="#orgb7df2e2">2. Course Description</a></li>
+<li><a href="#org2d20c53">3. Requirements</a>
 <ul>
-<li><a href="#orga59ce53">3.1. Assignments</a></li>
+<li><a href="#org8b8bba1">3.1. Assignments</a></li>
 </ul>
 </li>
-<li><a href="#org5463cd0">4. Texts</a>
+<li><a href="#org9b5928b">4. Texts</a>
 <ul>
-<li><a href="#orgc186e9f">4.1. Required</a></li>
-<li><a href="#orgdc675b4">4.2. Recommended</a></li>
+<li><a href="#orgc79d1d1">4.1. Required</a></li>
+<li><a href="#orgbf407e5">4.2. Recommended</a></li>
 </ul>
 </li>
-<li><a href="#org8dacec1">5. Course Policies</a>
+<li><a href="#orgc41428b">5. Course Policies</a>
 <ul>
-<li><a href="#org338e1f3">5.1. Attendance</a>
+<li><a href="#org04aa873">5.1. Attendance</a>
 <ul>
-<li><a href="#org1a7e0ff">5.1.1. Documentation for excused absences</a></li>
-<li><a href="#org6c6c5e1">5.1.2. Lateness</a></li>
+<li><a href="#org17c46f9">5.1.1. Documentation for excused absences</a></li>
+<li><a href="#org0bc5ce0">5.1.2. Lateness</a></li>
 </ul>
 </li>
-<li><a href="#orgdbc2d74">5.2. Conferences and Office Hours</a></li>
-<li><a href="#orgb7feb4c">5.3. Assessment and Response</a></li>
-<li><a href="#org853bc0f">5.4. Essay Grading</a></li>
-<li><a href="#org00b47e9">5.5. Late and Missed Assignments, Drafts, and Final Essays</a></li>
-<li><a href="#org0ba81b0">5.6. Final Grades</a>
+<li><a href="#org1bdc0f5">5.2. Conferences and Office Hours</a></li>
+<li><a href="#orgd24cfba">5.3. Assessment and Response</a></li>
+<li><a href="#orgef10385">5.4. Essay Grading</a></li>
+<li><a href="#org4f70032">5.5. Late and Missed Assignments, Drafts, and Final Essays</a></li>
+<li><a href="#org69df89b">5.6. Final Grades</a>
 <ul>
-<li><a href="#orgcd1fee7">5.6.1. Adjustments</a></li>
+<li><a href="#org888b390">5.6.1. Adjustments</a></li>
 </ul>
 </li>
-<li><a href="#org3f27754">5.7. Academic Integrity</a></li>
-<li><a href="#orge151625">5.8. The Writing Center</a></li>
-<li><a href="#org0286682">5.9. Accommodations for Students with Disabilities</a></li>
-<li><a href="#org5019c2f">5.10. Counseling and Psychological Services</a></li>
+<li><a href="#org511564c">5.7. Academic Integrity</a></li>
+<li><a href="#orge6d4b01">5.8. The Writing Center</a></li>
+<li><a href="#orgef3259b">5.9. Accommodations for Students with Disabilities</a></li>
+<li><a href="#org7677fc6">5.10. Counseling and Psychological Services</a></li>
 </ul>
 </li>
-<li><a href="#org1175148">6. Schedule</a>
+<li><a href="#orgaf3a5fc">6. Schedule</a>
 <ul>
-<li><a href="#org4225c6b">6.1. Session 1: Intro: 1/17</a></li>
-<li><a href="#orgbdec5c7">6.2. Session 2: 1a: 1/22</a></li>
-<li><a href="#orgf6e62fa">6.3. Session 3: 1b: 1/24</a></li>
-<li><a href="#orgb359d02">6.4. Recommended: Writing Center Workshop: 1/24, 6-7:30pm, 310 Philosophy Hall</a></li>
-<li><a href="#org3c02949">6.5. Session 4: 1c: 1/29</a></li>
-<li><a href="#org4271384">6.6. Session 5: 1d: 1/31</a></li>
-<li><a href="#orgdf3e318">6.7. Recommended: Writing Center Workshop: 1/31, 6-7:30pm, 310 Philosophy Hall</a></li>
-<li><a href="#org76bb38c">6.8. Session 6: 1f: 2/5</a></li>
-<li><a href="#org2916b15">6.9. Session 7: 1g: 2/7</a></li>
-<li><a href="#org3562011">6.10. Special Session: 2/7 6-8pm, Low Library</a></li>
-<li><a href="#org14565ed">6.11. Session 8: 2a: 2/12</a></li>
-<li><a href="#orgc559625">6.12. Session 9: 2b: 2/14</a></li>
-<li><a href="#org19e6c3b">6.13. Recommended: Writing Center Workshop: 2/14, 6-7:30pm, 310 Philosophy Hall</a></li>
-<li><a href="#org2aebb5f">6.14. Session 10: 2c: 2/19</a></li>
-<li><a href="#org00c79de">6.15. Session 11: 2d: 2/21</a></li>
-<li><a href="#org4d4b112">6.16. International Students: Writing Center Workshop: 2/21, 6-7:30pm, 310 Philosophy Hall</a></li>
-<li><a href="#org48c5a08">6.17. Session 12: 2e: 2/26</a></li>
-<li><a href="#org8bd9308">6.18. Session 13: 2f: 2/28</a></li>
-<li><a href="#org9b127d8">6.19. Recommended: Writing Center Workshop: 2/28, 6-7:30pm, 310 Philosophy Hall</a></li>
-<li><a href="#org0e3cb53">6.20. Session 14: 2g: 3/5</a></li>
-<li><a href="#org1c29c28">6.21. Session 15: 3a: 3/7</a></li>
-<li><a href="#org278679e">6.22. International Students: Writing Center Workshop: 3/7, 6-7:30pm, 310 Philosophy Hall</a></li>
-<li><a href="#org0347868">6.23. Session 16: 3b: 3/19</a></li>
-<li><a href="#orgca70070">6.24. Session 17: 3c: 3/21</a></li>
-<li><a href="#org44df16e">6.25. International Students: Writing Center Workshop: Friday, 3/23, TBA</a></li>
-<li><a href="#org55c25f1">6.26. Session 18: 3d: 3/26</a></li>
-<li><a href="#orgcaf5b3e">6.27. Session 19: 3e: 3/28</a></li>
-<li><a href="#org157eb78">6.28. International Students: Writing Center Workshop: Friday, 3/30, TBA</a></li>
-<li><a href="#orgb2576e8">6.29. Session 20: 3f: 4/2</a></li>
-<li><a href="#orgf8907f4">6.30. Session 21: 3g: 4/4</a></li>
-<li><a href="#orgcec8a7a">6.31. Recommended: Writing Center Workshop: Friday, 4/6, TBA</a></li>
-<li><a href="#org904d93c">6.32. Session 22: 3i: 4/9</a></li>
-<li><a href="#org9972c17">6.33. Session 23: 4a: 4/11</a></li>
-<li><a href="#org19934e4">6.34. Recommended: Writing Center Workshop: Friday, 4/13, TBA</a></li>
-<li><a href="#org3a14e02">6.35. Session 24: 4b: 4/16</a></li>
-<li><a href="#orga175223">6.36. Session 25: 4c: 4/18</a></li>
-<li><a href="#org7b9ebc5">6.37. International Students: Writing Center Workshop: Friday, 4/20, TBA</a></li>
-<li><a href="#orgd32d3d6">6.38. Session 26: 4d: 4/23</a></li>
-<li><a href="#org85d168f">6.39. Session 27: 4e: 4/25</a></li>
-<li><a href="#org4b31d78">6.40. Session 28: 4/30</a></li>
+<li><a href="#orgc26f986">6.1. Session 1: Intro: 1/17</a></li>
+<li><a href="#orgc4c600e">6.2. Session 2: 1a: 1/22</a></li>
+<li><a href="#org77b72ca">6.3. Session 3: 1b: 1/24</a></li>
+<li><a href="#org6e15f3d">6.4. Recommended: Writing Center Workshop: 1/24, 6-7:30pm, 310 Philosophy Hall</a></li>
+<li><a href="#org278168e">6.5. Session 4: 1c: 1/29</a></li>
+<li><a href="#org17b7237">6.6. Session 5: 1d: 1/31</a></li>
+<li><a href="#org6f83337">6.7. Recommended: Writing Center Workshop: 1/31, 6-7:30pm, 310 Philosophy Hall</a></li>
+<li><a href="#orgad66c77">6.8. Session 6: 1f: 2/5</a></li>
+<li><a href="#org97c66ab">6.9. Session 7: 1g: 2/7</a></li>
+<li><a href="#org338656c">6.10. Special Session: 2/7 6-8pm, Low Library</a></li>
+<li><a href="#org490d969">6.11. Session 8: 2a: 2/12</a></li>
+<li><a href="#org2a66556">6.12. Session 9: 2b: 2/14</a></li>
+<li><a href="#org6a275c2">6.13. Recommended: Writing Center Workshop: 2/14, 6-7:30pm, 310 Philosophy Hall</a></li>
+<li><a href="#org9abd75a">6.14. Session 10: 2c: 2/19</a></li>
+<li><a href="#orged3d2b8">6.15. Session 11: 2d: 2/21</a></li>
+<li><a href="#org3084226">6.16. International Students: Writing Center Workshop: 2/21, 6-7:30pm, 310 Philosophy Hall</a></li>
+<li><a href="#org88860fe">6.17. Session 12: 2e: 2/26</a></li>
+<li><a href="#orga89a48c">6.18. Session 13: 2f: 2/28</a></li>
+<li><a href="#orge6cdf8f">6.19. Recommended: Writing Center Workshop: 2/28, 6-7:30pm, 310 Philosophy Hall</a></li>
+<li><a href="#orgdec3607">6.20. Session 14: 2g: 3/5</a></li>
+<li><a href="#org1713747">6.21. Session 15: 3a: 3/7</a></li>
+<li><a href="#orgbb97836">6.22. International Students: Writing Center Workshop: 3/7, 6-7:30pm, 310 Philosophy Hall</a></li>
+<li><a href="#org1f5046e">6.23. Session 16: 3b: 3/19</a></li>
+<li><a href="#orgf7e3043">6.24. Session 17: 3c: 3/21</a></li>
+<li><a href="#org1bc53b9">6.25. International Students: Writing Center Workshop: Friday, 3/23, TBA</a></li>
+<li><a href="#orgbce19a8">6.26. Session 18: 3d: 3/26</a></li>
+<li><a href="#orgbf3c0dc">6.27. Session 19: 3e: 3/28</a></li>
+<li><a href="#orgc401b38">6.28. International Students: Writing Center Workshop: Friday, 3/30, TBA</a></li>
+<li><a href="#org021a5f9">6.29. Session 20: 3f: 4/2</a></li>
+<li><a href="#orgdf9282b">6.30. Session 21: 3g: 4/4</a></li>
+<li><a href="#org3562038">6.31. Recommended: Writing Center Workshop: Friday, 4/6, TBA</a></li>
+<li><a href="#org1a50ef2">6.32. Session 22: 3i: 4/9</a></li>
+<li><a href="#orgcf48c6a">6.33. Session 23: 4a: 4/11</a></li>
+<li><a href="#org31ad0ca">6.34. Recommended: Writing Center Workshop: Friday, 4/13, TBA</a></li>
+<li><a href="#org33a8343">6.35. Session 24: 4b: 4/16</a></li>
+<li><a href="#orgf1412f1">6.36. Session 25: 4c: 4/18</a></li>
+<li><a href="#orgef8f3dd">6.37. International Students: Writing Center Workshop: Friday, 4/20, TBA</a></li>
+<li><a href="#orgdbfbea3">6.38. Session 26: 4d: 4/23</a></li>
+<li><a href="#orgbf0dec3">6.39. Session 27: 4e: 4/25</a></li>
+<li><a href="#org46ec94e">6.40. Session 28: 4/30</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgecd3f13" class="outline-2">
-<h2 id="orgecd3f13"><span class="section-number-2">1</span> General Information</h2>
+<div id="outline-container-orgef3d5bc" class="outline-2">
+<h2 id="orgef3d5bc"><span class="section-number-2">1</span> General Information</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 ENGL 1010 CC, Section 502
@@ -123,8 +355,8 @@ Mailbox address: 310 Philosophy Hall. (Don't use this.)
 </div>
 </div>
 
-<div id="outline-container-orgaf1aeba" class="outline-2">
-<h2 id="orgaf1aeba"><span class="section-number-2">2</span> Course Description</h2>
+<div id="outline-container-orgb7df2e2" class="outline-2">
+<h2 id="orgb7df2e2"><span class="section-number-2">2</span> Course Description</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed. Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
@@ -170,8 +402,8 @@ Since Progression 3 will require the use of unassigned sources, fewer readings a
 </div>
 </div>
 
-<div id="outline-container-orga49ccdf" class="outline-2">
-<h2 id="orga49ccdf"><span class="section-number-2">3</span> Requirements</h2>
+<div id="outline-container-org2d20c53" class="outline-2">
+<h2 id="org2d20c53"><span class="section-number-2">3</span> Requirements</h2>
 <div class="outline-text-2" id="text-3">
 <ul class="org-ul">
 <li>Complete <i>four revised essays</i> ranging from 750-3000 words, each accompanied by two <i>drafts</i>. 
@@ -184,8 +416,8 @@ Since Progression 3 will require the use of unassigned sources, fewer readings a
 </ul>
 </div>
 
-<div id="outline-container-orga59ce53" class="outline-3">
-<h3 id="orga59ce53"><span class="section-number-3">3.1</span> Assignments</h3>
+<div id="outline-container-org8b8bba1" class="outline-3">
+<h3 id="org8b8bba1"><span class="section-number-3">3.1</span> Assignments</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 You will do at least three types of writing in this course: <i>exercises</i>, <i>drafts</i>, and <i>final essays</i>. These assignments will connect with one another in a developmental sequence called <i>a progression.</i>
@@ -232,12 +464,12 @@ If you're tech-savvy, you can avoid a lot of pixel-pushing by writing in <a href
 </div>
 </div>
 
-<div id="outline-container-org5463cd0" class="outline-2">
-<h2 id="org5463cd0"><span class="section-number-2">4</span> Texts</h2>
+<div id="outline-container-org9b5928b" class="outline-2">
+<h2 id="org9b5928b"><span class="section-number-2">4</span> Texts</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-orgc186e9f" class="outline-3">
-<h3 id="orgc186e9f"><span class="section-number-3">4.1</span> Required</h3>
+<div id="outline-container-orgc79d1d1" class="outline-3">
+<h3 id="orgc79d1d1"><span class="section-number-3">4.1</span> Required</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 The following text is required, in the third edition. As we'll be using the latest MLA citation style, corresponding to the 2016 eighth edition of the <i>MLA Handbook</i>, it is important that you buy this exact edition, since earlier editions may use outdated citation styles.
@@ -253,8 +485,8 @@ All other materials, such as the syllabus, course description, requirements, rea
 </div>
 </div>
 
-<div id="outline-container-orgdc675b4" class="outline-3">
-<h3 id="orgdc675b4"><span class="section-number-3">4.2</span> Recommended</h3>
+<div id="outline-container-orgbf407e5" class="outline-3">
+<h3 id="orgbf407e5"><span class="section-number-3">4.2</span> Recommended</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>
 These books are strongly recommended. They are common texts, and so will probably be available at the university bookstore and at BookCulture. Etexts are also available for all of these. Make sure to get the very latest editions, as older editions could teach you outdated citation styles.
@@ -269,12 +501,12 @@ These books are strongly recommended. They are common texts, and so will probabl
 </div>
 </div>
 
-<div id="outline-container-org8dacec1" class="outline-2">
-<h2 id="org8dacec1"><span class="section-number-2">5</span> Course Policies</h2>
+<div id="outline-container-orgc41428b" class="outline-2">
+<h2 id="orgc41428b"><span class="section-number-2">5</span> Course Policies</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-org338e1f3" class="outline-3">
-<h3 id="org338e1f3"><span class="section-number-3">5.1</span> Attendance</h3>
+<div id="outline-container-org04aa873" class="outline-3">
+<h3 id="org04aa873"><span class="section-number-3">5.1</span> Attendance</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 The discussion and workshop elements that are at the center of this course cannot be made up, so attendance is vital.
@@ -285,8 +517,8 @@ In accordance with Columbia University regulations, there will be distinctions m
 </p>
 </div>
 
-<div id="outline-container-org1a7e0ff" class="outline-4">
-<h4 id="org1a7e0ff"><span class="section-number-4">5.1.1</span> Documentation for excused absences</h4>
+<div id="outline-container-org17c46f9" class="outline-4">
+<h4 id="org17c46f9"><span class="section-number-4">5.1.1</span> Documentation for excused absences</h4>
 <div class="outline-text-4" id="text-5-1-1">
 <p>
 Religious observance: By the fourth class session, send an email to your instructor&#x2014;copied to your academic advisor&#x2014;in which you outline all of the dates you will be absent for the semester. Create a plan with your instructor to make up work or reschedule deadlines.
@@ -352,8 +584,8 @@ All other absences, including those due to late registration, are considered une
 </div>
 </div>
 
-<div id="outline-container-org6c6c5e1" class="outline-4">
-<h4 id="org6c6c5e1"><span class="section-number-4">5.1.2</span> Lateness</h4>
+<div id="outline-container-org0bc5ce0" class="outline-4">
+<h4 id="org0bc5ce0"><span class="section-number-4">5.1.2</span> Lateness</h4>
 <div class="outline-text-4" id="text-5-1-2">
 <p>
 Because lateness is disruptive to the entire class, if you arrive once class is underway or depart before the class session has ended, you will be marked as late. <i>Two latenesses count as one absence in calculating your final course grade.</i>
@@ -362,8 +594,8 @@ Because lateness is disruptive to the entire class, if you arrive once class is 
 </div>
 </div>
 
-<div id="outline-container-orgdbc2d74" class="outline-3">
-<h3 id="orgdbc2d74"><span class="section-number-3">5.2</span> Conferences and Office Hours</h3>
+<div id="outline-container-org1bdc0f5" class="outline-3">
+<h3 id="org1bdc0f5"><span class="section-number-3">5.2</span> Conferences and Office Hours</h3>
 <div class="outline-text-3" id="text-5-2">
 <p>
 You will have two 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, or to revise your essays. You are welcome to come and see me in office hours, or schedule an appointment to discuss any aspect of the course. Schedule the first conference during Progression 1, and the second conference during Progression 2. 
@@ -371,8 +603,8 @@ You will have two 20-30 minute conferences with me during the semester. These co
 </div>
 </div>
 
-<div id="outline-container-orgb7feb4c" class="outline-3">
-<h3 id="orgb7feb4c"><span class="section-number-3">5.3</span> Assessment and Response</h3>
+<div id="outline-container-orgd24cfba" class="outline-3">
+<h3 id="orgd24cfba"><span class="section-number-3">5.3</span> Assessment and Response</h3>
 <div class="outline-text-3" id="text-5-3">
 <p>
 All of the writing you submit on time for this class will receive some sort of written or recorded response from me and/or your classmates. While writing exercises and preliminary drafts will not receive grades (or will receive a grade of "complete") they will be important for your development as a writer and thinker, and you are expected to complete them all.
@@ -388,8 +620,8 @@ My comments are designed to help you assess your draft and prioritize goals for 
 </div>
 </div>
 
-<div id="outline-container-org853bc0f" class="outline-3">
-<h3 id="org853bc0f"><span class="section-number-3">5.4</span> Essay Grading</h3>
+<div id="outline-container-orgef10385" class="outline-3">
+<h3 id="orgef10385"><span class="section-number-3">5.4</span> Essay Grading</h3>
 <div class="outline-text-3" id="text-5-4">
 <p>
 Each final essay will receive a letter grade ranging from A to F. 
@@ -409,8 +641,8 @@ Each final essay will receive a letter grade ranging from A to F.
 </div>
 </div>
 
-<div id="outline-container-org00b47e9" class="outline-3">
-<h3 id="org00b47e9"><span class="section-number-3">5.5</span> Late and Missed Assignments, Drafts, and Final Essays</h3>
+<div id="outline-container-org4f70032" class="outline-3">
+<h3 id="org4f70032"><span class="section-number-3">5.5</span> Late and Missed Assignments, Drafts, and Final Essays</h3>
 <div class="outline-text-3" id="text-5-5">
 <p>
 Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. If you turn in work late, I may not be able to provide you feedback. Please complete all of your writing exercise on time, as missed exercises can impact the quality and grade of your essay. All assignments will be automatically lowered by 3% (e.g. from a B- to a C+) each day they are late, beginning the minute after their deadline. Additionally, if you are missing either of the preliminary drafts, or do not turn them in at least 48 hours before the deadline of the final draft, your final essay grade will be lowered by one whole grade (e.g. from a B to a C). All work must be submitted to CourseWorks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
@@ -418,8 +650,8 @@ Keeping deadlines is an important aspect of this class, as it gives you the time
 </div>
 </div>
 
-<div id="outline-container-org0ba81b0" class="outline-3">
-<h3 id="org0ba81b0"><span class="section-number-3">5.6</span> Final Grades</h3>
+<div id="outline-container-org69df89b" class="outline-3">
+<h3 id="org69df89b"><span class="section-number-3">5.6</span> Final Grades</h3>
 <div class="outline-text-3" id="text-5-6">
 <p>
 Your course work for the semester will be weighted as follows:
@@ -469,8 +701,8 @@ Your course work for the semester will be weighted as follows:
 </table>
 </div>
 
-<div id="outline-container-orgcd1fee7" class="outline-4">
-<h4 id="orgcd1fee7"><span class="section-number-4">5.6.1</span> Adjustments</h4>
+<div id="outline-container-org888b390" class="outline-4">
+<h4 id="org888b390"><span class="section-number-4">5.6.1</span> Adjustments</h4>
 <div class="outline-text-4" id="text-5-6-1">
 <p>
 As in all seminars, your participation will contribute to building a vibrant learning community. While there is no separate grade for participation, I may adjust a final grade up or down by a third of a letter grade to account for exceptionally productive or non-productive participation.
@@ -479,8 +711,8 @@ As in all seminars, your participation will contribute to building a vibrant lea
 </div>
 </div>
 
-<div id="outline-container-org3f27754" class="outline-3">
-<h3 id="org3f27754"><span class="section-number-3">5.7</span> Academic Integrity</h3>
+<div id="outline-container-org511564c" class="outline-3">
+<h3 id="org511564c"><span class="section-number-3">5.7</span> Academic Integrity</h3>
 <div class="outline-text-3" id="text-5-7">
 <p>
 University Writing will provide you with strategies for working ethically and accurately with sources and adhering to the Columbia <a href="http://www.college.columbia.edu/ccschonorcode#http://www.college.columbia.edu/ccschonorcode">Undergraduate Honor Code</a>. 
@@ -503,8 +735,8 @@ Final drafts that contain plagiarism will receive a zero, may result in failure 
 </div>
 </div>
 
-<div id="outline-container-orge151625" class="outline-3">
-<h3 id="orge151625"><span class="section-number-3">5.8</span> The Writing Center</h3>
+<div id="outline-container-orge6d4b01" class="outline-3">
+<h3 id="orge6d4b01"><span class="section-number-3">5.8</span> The Writing Center</h3>
 <div class="outline-text-3" id="text-5-8">
 <p>
 I encourage you to visit the Writing Center, where you can receive free individual consultations on your writing at any stage in the writing process, including brainstorming. Writing consultants work with all members of the Columbia community on any academic or nonacademic writing. You can make an appointment and view drop in hours on <a href="http://www.college.columbia.edu/core/uwp/writing-center">their website</a>. 
@@ -512,8 +744,8 @@ I encourage you to visit the Writing Center, where you can receive free individu
 </div>
 </div>
 
-<div id="outline-container-org0286682" class="outline-3">
-<h3 id="org0286682"><span class="section-number-3">5.9</span> Accommodations for Students with Disabilities</h3>
+<div id="outline-container-orgef3259b" class="outline-3">
+<h3 id="orgef3259b"><span class="section-number-3">5.9</span> Accommodations for Students with Disabilities</h3>
 <div class="outline-text-3" id="text-5-9">
 <p>
 Columbia University provides students who register with the <a href="file:///http:/www.health.columbia.edu/ods/news/ds-programs.html/">Office of Disability Services (ODS)</a> with a range of support options and will provide you with a letter stating the accommodations to which you are entitled, without disclosing any other information about you. If you know or believe you have a disability of some kind, please consult with Disability Services and your advising dean as soon as possible; University Writing instructors need official documentation from the ODS in order to provide accommodations, and we cannot make retroactive accommodations.
@@ -521,8 +753,8 @@ Columbia University provides students who register with the <a href="file:///htt
 </div>
 </div>
 
-<div id="outline-container-org5019c2f" class="outline-3">
-<h3 id="org5019c2f"><span class="section-number-3">5.10</span> Counseling and Psychological Services</h3>
+<div id="outline-container-org7677fc6" class="outline-3">
+<h3 id="org7677fc6"><span class="section-number-3">5.10</span> Counseling and Psychological Services</h3>
 <div class="outline-text-3" id="text-5-10">
 <p>
 The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counseling and Psychological Services (CPS)</a> provides many kinds of support for student wellness and academic success.
@@ -531,74 +763,74 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </div>
 </div>
 
-<div id="outline-container-org1175148" class="outline-2">
-<h2 id="org1175148"><span class="section-number-2">6</span> Schedule</h2>
+<div id="outline-container-orgaf3a5fc" class="outline-2">
+<h2 id="orgaf3a5fc"><span class="section-number-2">6</span> Schedule</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-org4225c6b" class="outline-3">
-<h3 id="org4225c6b"><span class="section-number-3">6.1</span> Session 1: Intro: 1/17</h3>
+<div id="outline-container-orgc26f986" class="outline-3">
+<h3 id="orgc26f986"><span class="section-number-3">6.1</span> Session 1: Intro: 1/17</h3>
 <div class="outline-text-3" id="text-6-1">
 <ul class="org-ul">
 <li>Introductions, overview, reading strategies.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgbdec5c7" class="outline-3">
-<h3 id="orgbdec5c7"><span class="section-number-3">6.2</span> Session 2: 1a: 1/22</h3>
+<div id="outline-container-orgc4c600e" class="outline-3">
+<h3 id="orgc4c600e"><span class="section-number-3">6.2</span> Session 2: 1a: 1/22</h3>
 <div class="outline-text-3" id="text-6-2">
 <ul class="org-ul">
-<li><a href="https://courseworks2.columbia.edu/files/1485955/download?download_frd=1">Alan Turing, "Computing Machinery and Intelligence"</a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275930/download?download_frd=1">Alan Turing, "Computing Machinery and Intelligence"</a></li>
 <li><i>They Say / I Say</i> Ch. 1; exercises.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf6e62fa" class="outline-3">
-<h3 id="orgf6e62fa"><span class="section-number-3">6.3</span> Session 3: 1b: 1/24</h3>
+<div id="outline-container-org77b72ca" class="outline-3">
+<h3 id="org77b72ca"><span class="section-number-3">6.3</span> Session 3: 1b: 1/24</h3>
 <div class="outline-text-3" id="text-6-3">
 <ul class="org-ul">
-<li><a href="https://courseworks2.columbia.edu/files/1474321/download?download_frd=1">Freud, "The Uncanny"</a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275938/download?download_frd=1">Freud, "The Uncanny"</a></li>
 <li><i>They Say / I Say</i> Ch. 2; exercises.</li>
 <li>Writing Center consultant visit</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb359d02" class="outline-3">
-<h3 id="orgb359d02"><span class="section-number-3">6.4</span> Recommended: Writing Center Workshop: 1/24, 6-7:30pm, 310 Philosophy Hall</h3>
+<div id="outline-container-org6e15f3d" class="outline-3">
+<h3 id="org6e15f3d"><span class="section-number-3">6.4</span> Recommended: Writing Center Workshop: 1/24, 6-7:30pm, 310 Philosophy Hall</h3>
 <div class="outline-text-3" id="text-6-4">
 <ul class="org-ul">
 <li>Responding to texts</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3c02949" class="outline-3">
-<h3 id="org3c02949"><span class="section-number-3">6.5</span> Session 4: 1c: 1/29</h3>
+<div id="outline-container-org278168e" class="outline-3">
+<h3 id="org278168e"><span class="section-number-3">6.5</span> Session 4: 1c: 1/29</h3>
 <div class="outline-text-3" id="text-6-5">
 <ul class="org-ul">
-<li><a href="https://courseworks2.columbia.edu/files/1474375/download?download_frd=1">Halberstam, "Automating Gender"</a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275937/download?download_frd=1">Halberstam, "Automating Gender"</a></li>
 <li>Recommended reading: essays from the <a href="https://morningsidereview.org/assignment/critical-response/">Morningside Review P1 Essays</a>.</li>
 <li>P1 exploratory draft due</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org4271384" class="outline-3">
-<h3 id="org4271384"><span class="section-number-3">6.6</span> Session 5: 1d: 1/31</h3>
+<div id="outline-container-org17b7237" class="outline-3">
+<h3 id="org17b7237"><span class="section-number-3">6.6</span> Session 5: 1d: 1/31</h3>
 <div class="outline-text-3" id="text-6-6">
 <ul class="org-ul">
-<li><a href="https://courseworks2.columbia.edu/files/1474378/download?download_frd=1">Tenen, "Unintelligent Design"</a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275929/download?download_frd=1">Tenen, "Unintelligent Design"</a></li>
 <li><i>They Say / I Say</i> Ch. 3; exercises</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgdf3e318" class="outline-3">
-<h3 id="orgdf3e318"><span class="section-number-3">6.7</span> Recommended: Writing Center Workshop: 1/31, 6-7:30pm, 310 Philosophy Hall</h3>
+<div id="outline-container-org6f83337" class="outline-3">
+<h3 id="org6f83337"><span class="section-number-3">6.7</span> Recommended: Writing Center Workshop: 1/31, 6-7:30pm, 310 Philosophy Hall</h3>
 <div class="outline-text-3" id="text-6-7">
 <ul class="org-ul">
 <li>Developing claims</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org76bb38c" class="outline-3">
-<h3 id="org76bb38c"><span class="section-number-3">6.8</span> Session 6: 1f: 2/5</h3>
+<div id="outline-container-orgad66c77" class="outline-3">
+<h3 id="orgad66c77"><span class="section-number-3">6.8</span> Session 6: 1f: 2/5</h3>
 <div class="outline-text-3" id="text-6-8">
 <ul class="org-ul">
 <li>P1 formal draft due</li>
@@ -607,18 +839,18 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org2916b15" class="outline-3">
-<h3 id="org2916b15"><span class="section-number-3">6.9</span> Session 7: 1g: 2/7</h3>
+<div id="outline-container-org97c66ab" class="outline-3">
+<h3 id="org97c66ab"><span class="section-number-3">6.9</span> Session 7: 1g: 2/7</h3>
 <div class="outline-text-3" id="text-6-9">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 5; exercises.</li>
-<li><a href="https://courseworks2.columbia.edu/files/1592142/download?download_frd=1">selections from Silver, <i>The Signal and the Noise</i></a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275939/download?download_frd=1">selections from Silver, <i>The Signal and the Noise</i></a></li>
 <li>Schedule first conference</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3562011" class="outline-3">
-<h3 id="org3562011"><span class="section-number-3">6.10</span> Special Session: 2/7 6-8pm, Low Library</h3>
+<div id="outline-container-org338656c" class="outline-3">
+<h3 id="org338656c"><span class="section-number-3">6.10</span> Special Session: 2/7 6-8pm, Low Library</h3>
 <div class="outline-text-3" id="text-6-10">
 <ul class="org-ul">
 <li>University Writing Event: Lee Bollinger</li>
@@ -626,8 +858,8 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org14565ed" class="outline-3">
-<h3 id="org14565ed"><span class="section-number-3">6.11</span> Session 8: 2a: 2/12</h3>
+<div id="outline-container-org490d969" class="outline-3">
+<h3 id="org490d969"><span class="section-number-3">6.11</span> Session 8: 2a: 2/12</h3>
 <div class="outline-text-3" id="text-6-11">
 <ul class="org-ul">
 <li>P1 final due</li>
@@ -635,25 +867,25 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc559625" class="outline-3">
-<h3 id="orgc559625"><span class="section-number-3">6.12</span> Session 9: 2b: 2/14</h3>
+<div id="outline-container-org2a66556" class="outline-3">
+<h3 id="org2a66556"><span class="section-number-3">6.12</span> Session 9: 2b: 2/14</h3>
 <div class="outline-text-3" id="text-6-12">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 7; exercises.</li>
-<li><a href="https://courseworks2.columbia.edu/files/1592240/download?download_frd=1">selections from Stephens-Davidowitz, <i>Everybody Lies</i></a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275932/download?download_frd=1">selections from Stephens-Davidowitz, <i>Everybody Lies</i></a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org19e6c3b" class="outline-3">
-<h3 id="org19e6c3b"><span class="section-number-3">6.13</span> Recommended: Writing Center Workshop: 2/14, 6-7:30pm, 310 Philosophy Hall</h3>
+<div id="outline-container-org6a275c2" class="outline-3">
+<h3 id="org6a275c2"><span class="section-number-3">6.13</span> Recommended: Writing Center Workshop: 2/14, 6-7:30pm, 310 Philosophy Hall</h3>
 <div class="outline-text-3" id="text-6-13">
 <ul class="org-ul">
 <li>Putting texts in conversation</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org2aebb5f" class="outline-3">
-<h3 id="org2aebb5f"><span class="section-number-3">6.14</span> Session 10: 2c: 2/19</h3>
+<div id="outline-container-org9abd75a" class="outline-3">
+<h3 id="org9abd75a"><span class="section-number-3">6.14</span> Session 10: 2c: 2/19</h3>
 <div class="outline-text-3" id="text-6-14">
 <ul class="org-ul">
 <li>P2 exploratory draft due</li>
@@ -661,35 +893,35 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org00c79de" class="outline-3">
-<h3 id="org00c79de"><span class="section-number-3">6.15</span> Session 11: 2d: 2/21</h3>
+<div id="outline-container-orged3d2b8" class="outline-3">
+<h3 id="orged3d2b8"><span class="section-number-3">6.15</span> Session 11: 2d: 2/21</h3>
 <div class="outline-text-3" id="text-6-15">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 8; exercises.</li>
-<li><a href="https://courseworks2.columbia.edu/files/1592864/download?download_frd=1">selections from Huff, <i>How to Lie with Statistics</i></a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275940/download?download_frd=1">selections from Huff, <i>How to Lie with Statistics</i></a></li>
 <li>P1 final returned</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org4d4b112" class="outline-3">
-<h3 id="org4d4b112"><span class="section-number-3">6.16</span> International Students: Writing Center Workshop: 2/21, 6-7:30pm, 310 Philosophy Hall</h3>
+<div id="outline-container-org3084226" class="outline-3">
+<h3 id="org3084226"><span class="section-number-3">6.16</span> International Students: Writing Center Workshop: 2/21, 6-7:30pm, 310 Philosophy Hall</h3>
 <div class="outline-text-3" id="text-6-16">
 <ul class="org-ul">
 <li>First person</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org48c5a08" class="outline-3">
-<h3 id="org48c5a08"><span class="section-number-3">6.17</span> Session 12: 2e: 2/26</h3>
+<div id="outline-container-org88860fe" class="outline-3">
+<h3 id="org88860fe"><span class="section-number-3">6.17</span> Session 12: 2e: 2/26</h3>
 <div class="outline-text-3" id="text-6-17">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 9; exercises.</li>
-<li><a href="https://courseworks2.columbia.edu/files/1709409/download?download_frd=1">selections from Rudder, <i>Dataclysm</i></a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275934/download?download_frd=1">selections from Rudder, <i>Dataclysm</i></a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org8bd9308" class="outline-3">
-<h3 id="org8bd9308"><span class="section-number-3">6.18</span> Session 13: 2f: 2/28</h3>
+<div id="outline-container-orga89a48c" class="outline-3">
+<h3 id="orga89a48c"><span class="section-number-3">6.18</span> Session 13: 2f: 2/28</h3>
 <div class="outline-text-3" id="text-6-18">
 <ul class="org-ul">
 <li>P2 formal draft due</li>
@@ -697,44 +929,42 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org9b127d8" class="outline-3">
-<h3 id="org9b127d8"><span class="section-number-3">6.19</span> Recommended: Writing Center Workshop: 2/28, 6-7:30pm, 310 Philosophy Hall</h3>
+<div id="outline-container-orge6cdf8f" class="outline-3">
+<h3 id="orge6cdf8f"><span class="section-number-3">6.19</span> Recommended: Writing Center Workshop: 2/28, 6-7:30pm, 310 Philosophy Hall</h3>
 <div class="outline-text-3" id="text-6-19">
 <ul class="org-ul">
 <li>Organization and structure</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org0e3cb53" class="outline-3">
-<h3 id="org0e3cb53"><span class="section-number-3">6.20</span> Session 14: 2g: 3/5</h3>
+<div id="outline-container-orgdec3607" class="outline-3">
+<h3 id="orgdec3607"><span class="section-number-3">6.20</span> Session 14: 2g: 3/5</h3>
 <div class="outline-text-3" id="text-6-20">
 <ul class="org-ul">
 <li>P2 draft peer review</li>
 <li><i>They Say / I Say</i> Ch. 10; exercises.</li>
-<li>David Blei, <a href="http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf">Probabilistic Topic Models</a></li>
-<li>David Blei, <a href="http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/">Topic Modeling and Digital Humanities</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org1c29c28" class="outline-3">
-<h3 id="org1c29c28"><span class="section-number-3">6.21</span> Session 15: 3a: 3/7</h3>
+<div id="outline-container-org1713747" class="outline-3">
+<h3 id="org1713747"><span class="section-number-3">6.21</span> Session 15: 3a: 3/7</h3>
 <div class="outline-text-3" id="text-6-21">
 <ul class="org-ul">
 <li>P2 feedback</li>
-<li><a href="https://courseworks2.columbia.edu/files/1794774/download?download_frd=1">Espeland and Stevens, "Sociology of Quantification"</a></li>
+<li><a href="https://courseworks2.columbia.edu/files/2275941/download?download_frd=1">Espeland and Stevens, "Sociology of Quantification"</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org278679e" class="outline-3">
-<h3 id="org278679e"><span class="section-number-3">6.22</span> International Students: Writing Center Workshop: 3/7, 6-7:30pm, 310 Philosophy Hall</h3>
+<div id="outline-container-orgbb97836" class="outline-3">
+<h3 id="orgbb97836"><span class="section-number-3">6.22</span> International Students: Writing Center Workshop: 3/7, 6-7:30pm, 310 Philosophy Hall</h3>
 <div class="outline-text-3" id="text-6-22">
 <ul class="org-ul">
 <li>Clauses</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org0347868" class="outline-3">
-<h3 id="org0347868"><span class="section-number-3">6.23</span> Session 16: 3b: 3/19</h3>
+<div id="outline-container-org1f5046e" class="outline-3">
+<h3 id="org1f5046e"><span class="section-number-3">6.23</span> Session 16: 3b: 3/19</h3>
 <div class="outline-text-3" id="text-6-23">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 11; checklist (see assignment description).</li>
@@ -743,8 +973,8 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-orgca70070" class="outline-3">
-<h3 id="orgca70070"><span class="section-number-3">6.24</span> Session 17: 3c: 3/21</h3>
+<div id="outline-container-orgf7e3043" class="outline-3">
+<h3 id="orgf7e3043"><span class="section-number-3">6.24</span> Session 17: 3c: 3/21</h3>
 <div class="outline-text-3" id="text-6-24">
 <ul class="org-ul">
 <li>P2 final due</li>
@@ -753,16 +983,16 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org44df16e" class="outline-3">
-<h3 id="org44df16e"><span class="section-number-3">6.25</span> International Students: Writing Center Workshop: Friday, 3/23, TBA</h3>
+<div id="outline-container-org1bc53b9" class="outline-3">
+<h3 id="org1bc53b9"><span class="section-number-3">6.25</span> International Students: Writing Center Workshop: Friday, 3/23, TBA</h3>
 <div class="outline-text-3" id="text-6-25">
 <ul class="org-ul">
 <li>Passive voice</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org55c25f1" class="outline-3">
-<h3 id="org55c25f1"><span class="section-number-3">6.26</span> Session 18: 3d: 3/26</h3>
+<div id="outline-container-orgbce19a8" class="outline-3">
+<h3 id="orgbce19a8"><span class="section-number-3">6.26</span> Session 18: 3d: 3/26</h3>
 <div class="outline-text-3" id="text-6-26">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 13; exercises.</li>
@@ -770,8 +1000,8 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-orgcaf5b3e" class="outline-3">
-<h3 id="orgcaf5b3e"><span class="section-number-3">6.27</span> Session 19: 3e: 3/28</h3>
+<div id="outline-container-orgbf3c0dc" class="outline-3">
+<h3 id="orgbf3c0dc"><span class="section-number-3">6.27</span> Session 19: 3e: 3/28</h3>
 <div class="outline-text-3" id="text-6-27">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 14</li>
@@ -779,24 +1009,24 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org157eb78" class="outline-3">
-<h3 id="org157eb78"><span class="section-number-3">6.28</span> International Students: Writing Center Workshop: Friday, 3/30, TBA</h3>
+<div id="outline-container-orgc401b38" class="outline-3">
+<h3 id="orgc401b38"><span class="section-number-3">6.28</span> International Students: Writing Center Workshop: Friday, 3/30, TBA</h3>
 <div class="outline-text-3" id="text-6-28">
 <ul class="org-ul">
 <li>Hedging language</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb2576e8" class="outline-3">
-<h3 id="orgb2576e8"><span class="section-number-3">6.29</span> Session 20: 3f: 4/2</h3>
+<div id="outline-container-org021a5f9" class="outline-3">
+<h3 id="org021a5f9"><span class="section-number-3">6.29</span> Session 20: 3f: 4/2</h3>
 <div class="outline-text-3" id="text-6-29">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 15</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf8907f4" class="outline-3">
-<h3 id="orgf8907f4"><span class="section-number-3">6.30</span> Session 21: 3g: 4/4</h3>
+<div id="outline-container-orgdf9282b" class="outline-3">
+<h3 id="orgdf9282b"><span class="section-number-3">6.30</span> Session 21: 3g: 4/4</h3>
 <div class="outline-text-3" id="text-6-30">
 <ul class="org-ul">
 <li>P3 formal draft due</li>
@@ -804,24 +1034,24 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-orgcec8a7a" class="outline-3">
-<h3 id="orgcec8a7a"><span class="section-number-3">6.31</span> Recommended: Writing Center Workshop: Friday, 4/6, TBA</h3>
+<div id="outline-container-org3562038" class="outline-3">
+<h3 id="org3562038"><span class="section-number-3">6.31</span> Recommended: Writing Center Workshop: Friday, 4/6, TBA</h3>
 <div class="outline-text-3" id="text-6-31">
 <ul class="org-ul">
 <li>Researching for complexity</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org904d93c" class="outline-3">
-<h3 id="org904d93c"><span class="section-number-3">6.32</span> Session 22: 3i: 4/9</h3>
+<div id="outline-container-org1a50ef2" class="outline-3">
+<h3 id="org1a50ef2"><span class="section-number-3">6.32</span> Session 22: 3i: 4/9</h3>
 <div class="outline-text-3" id="text-6-32">
 <ul class="org-ul">
 <li>P3 peer review</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9972c17" class="outline-3">
-<h3 id="org9972c17"><span class="section-number-3">6.33</span> Session 23: 4a: 4/11</h3>
+<div id="outline-container-orgcf48c6a" class="outline-3">
+<h3 id="orgcf48c6a"><span class="section-number-3">6.33</span> Session 23: 4a: 4/11</h3>
 <div class="outline-text-3" id="text-6-33">
 <ul class="org-ul">
 <li><i>They Say / I Say</i> Ch. 16</li>
@@ -829,24 +1059,24 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org19934e4" class="outline-3">
-<h3 id="org19934e4"><span class="section-number-3">6.34</span> Recommended: Writing Center Workshop: Friday, 4/13, TBA</h3>
+<div id="outline-container-org31ad0ca" class="outline-3">
+<h3 id="org31ad0ca"><span class="section-number-3">6.34</span> Recommended: Writing Center Workshop: Friday, 4/13, TBA</h3>
 <div class="outline-text-3" id="text-6-34">
 <ul class="org-ul">
 <li>Getting it done</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3a14e02" class="outline-3">
-<h3 id="org3a14e02"><span class="section-number-3">6.35</span> Session 24: 4b: 4/16</h3>
+<div id="outline-container-org33a8343" class="outline-3">
+<h3 id="org33a8343"><span class="section-number-3">6.35</span> Session 24: 4b: 4/16</h3>
 <div class="outline-text-3" id="text-6-35">
 <ul class="org-ul">
 <li>Op-eds</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga175223" class="outline-3">
-<h3 id="orga175223"><span class="section-number-3">6.36</span> Session 25: 4c: 4/18</h3>
+<div id="outline-container-orgf1412f1" class="outline-3">
+<h3 id="orgf1412f1"><span class="section-number-3">6.36</span> Session 25: 4c: 4/18</h3>
 <div class="outline-text-3" id="text-6-36">
 <ul class="org-ul">
 <li>P3 final due</li>
@@ -854,16 +1084,16 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org7b9ebc5" class="outline-3">
-<h3 id="org7b9ebc5"><span class="section-number-3">6.37</span> International Students: Writing Center Workshop: Friday, 4/20, TBA</h3>
+<div id="outline-container-orgef8f3dd" class="outline-3">
+<h3 id="orgef8f3dd"><span class="section-number-3">6.37</span> International Students: Writing Center Workshop: Friday, 4/20, TBA</h3>
 <div class="outline-text-3" id="text-6-37">
 <ul class="org-ul">
 <li>Concision</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd32d3d6" class="outline-3">
-<h3 id="orgd32d3d6"><span class="section-number-3">6.38</span> Session 26: 4d: 4/23</h3>
+<div id="outline-container-orgdbfbea3" class="outline-3">
+<h3 id="orgdbfbea3"><span class="section-number-3">6.38</span> Session 26: 4d: 4/23</h3>
 <div class="outline-text-3" id="text-6-38">
 <ul class="org-ul">
 <li>P4 Plan Due</li>
@@ -872,16 +1102,16 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </ul>
 </div>
 </div>
-<div id="outline-container-org85d168f" class="outline-3">
-<h3 id="org85d168f"><span class="section-number-3">6.39</span> Session 27: 4e: 4/25</h3>
+<div id="outline-container-orgbf0dec3" class="outline-3">
+<h3 id="orgbf0dec3"><span class="section-number-3">6.39</span> Session 27: 4e: 4/25</h3>
 <div class="outline-text-3" id="text-6-39">
 <ul class="org-ul">
 <li>P4 workshops</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org4b31d78" class="outline-3">
-<h3 id="org4b31d78"><span class="section-number-3">6.40</span> Session 28: 4/30</h3>
+<div id="outline-container-org46ec94e" class="outline-3">
+<h3 id="org46ec94e"><span class="section-number-3">6.40</span> Session 28: 4/30</h3>
 <div class="outline-text-3" id="text-6-40">
 <ul class="org-ul">
 <li>P4 final due</li>
@@ -889,3 +1119,11 @@ The <a href="http://www.health.columbia.edu/cps/index.html/">Office of Counselin
 </div>
 </div>
 </div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Jonathan Reeve</p>
+<p class="date">Created: 2018-01-18 Thu 16:25</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
